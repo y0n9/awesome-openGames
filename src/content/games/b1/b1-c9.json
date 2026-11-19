@@ -1,0 +1,98 @@
+[
+  {
+    "name": "SuperTuxKart",
+    "desc": "开源 3D 卡丁车竞速，角色为开源吉祥物，代表作",
+    "url": "https://github.com/supertuxkart/stk-code",
+    "tags": []
+  },
+  {
+    "name": "HexGL",
+    "desc": "未来风 HTML5 反重力竞速（three.js）",
+    "url": "https://github.com/BKcore/HexGL",
+    "tags": []
+  },
+  {
+    "name": "Stunt Rally",
+    "desc": "含赛道编辑器的拉力竞速（VDrift+OGRE）",
+    "url": "https://github.com/stuntrally/stuntrally",
+    "tags": []
+  },
+  {
+    "name": "TORCS / Speed Dreams",
+    "desc": "开源赛车模拟器，兼 AI 竞赛平台",
+    "url": "https://sourceforge.net/projects/torcs",
+    "tags": []
+  },
+  {
+    "name": "VDrift",
+    "desc": "以漂移为核心的驾驶模拟",
+    "url": "https://github.com/VDrift/vdrift",
+    "tags": []
+  },
+  {
+    "name": "Rigs of Rods",
+    "desc": "软体物理车辆模拟",
+    "url": "https://github.com/RigsOfRods/rigs-of-rods",
+    "tags": []
+  },
+  {
+    "name": "wipEout",
+    "desc": "1995 PS《反重力赛车》JS 重实现",
+    "url": "https://github.com/phoboslab/wipeout-rewrite",
+    "tags": []
+  },
+  {
+    "name": "ManiaDrive",
+    "desc": "《赛道狂飙》自由克隆（Raydium）",
+    "url": "https://raydium.org/data.php",
+    "tags": []
+  },
+  {
+    "name": "FlightGear",
+    "desc": "开源飞行模拟器",
+    "url": "https://gitlab.com/flightgear/flightgear",
+    "tags": []
+  },
+  {
+    "name": "Slow Roads",
+    "desc": "一个人做的无尽公路驾驶（three.js）",
+    "url": "https://slowroads.io/",
+    "tags": []
+  },
+  {
+    "name": "Trigger Rally Online Edition",
+    "desc": "高速街机风格拉力赛，可在浏览器中借助 WebGL 实现的 3D 视觉效果畅玩。",
+    "url": "https://github.com/CodeArtemis/TriggerRally",
+    "tags": []
+  },
+  {
+    "name": "TORCS",
+    "desc": "新增 开源赛车模拟环境，长期作为人工智能竞赛的标准测试平台，支持开发者编写程序化 AI 参赛。",
+    "url": "https://github.com/IObiver/TORCS",
+    "tags": []
+  },
+  {
+    "name": "Cannonball",
+    "desc": "新增 《OutRun》街机赛车的强化版引擎，重现 80 年代沿海公路竞速体验。",
+    "url": "https://github.com/djytc/cannonball",
+    "tags": []
+  },
+  {
+    "name": "Dust Racing 2D",
+    "desc": "传统俯视赛车，含关卡编辑器。",
+    "url": "https://github.com/cflavio/yorg",
+    "tags": []
+  },
+  {
+    "name": "Stunt Rally",
+    "desc": "带科幻元素的 3D 竞速，自带赛道编辑器。",
+    "url": "https://github.com/stuntrally/stuntrally3",
+    "tags": []
+  },
+  {
+    "name": "Dust Racing 2D",
+    "desc": "传统俯视赛车游戏，含关卡编辑器。",
+    "url": "https://github.com/juzzlin/DustRacing2D",
+    "tags": []
+  }
+]

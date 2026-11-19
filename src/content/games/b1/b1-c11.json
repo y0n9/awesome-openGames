@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Lichess (lila)",
+    "desc": "完全开源免费的国际象棋平台，无广告",
+    "url": "https://github.com/ornicar/lila",
+    "tags": []
+  },
+  {
+    "name": "Chessmata",
+    "desc": "开源多人在线国际象棋（Go+React+Three.js 棋盘）",
+    "url": "https://github.com/jonradoff/chessmata",
+    "tags": []
+  },
+  {
+    "name": "Wolfcha",
+    "desc": "每位玩家都是大模型的 AI 狼人杀",
+    "url": "https://github.com/oil-oil/wolfcha",
+    "tags": []
+  },
+  {
+    "name": "Pokémon Showdown",
+    "desc": "开源宝可梦对战模拟器，网页即玩",
+    "url": "https://github.com/smogon/pokemon-showdown",
+    "tags": []
+  },
+  {
+    "name": "PySolFC",
+    "desc": "收录 1000+ 种纸牌游戏的跨平台合集",
+    "url": "https://github.com/shlomif/PySolFC",
+    "tags": []
+  },
+  {
+    "name": "VASSAL",
+    "desc": "桌游电子化引擎，数千款桌游在线对战",
+    "url": "https://github.com/vassalengine/vassal",
+    "tags": []
+  },
+  {
+    "name": "PokerTH",
+    "desc": "支持在线多人与 AI 的德州扑克",
+    "url": "https://github.com/pokerth/pokerth",
+    "tags": []
+  },
+  {
+    "name": "Cockatrice",
+    "desc": "通用卡牌对战客户端（桌游远程开局）",
+    "url": "https://github.com/Cockatrice/Cockatrice",
+    "tags": []
+  },
+  {
+    "name": "Forge / XMage",
+    "desc": "万智牌开源实现（单机AI / 联网对战）",
+    "url": "https://github.com/Card-Forge/forge",
+    "tags": []
+  },
+  {
+    "name": "Nudoku",
+    "desc": "基于 Ncurses 的命令行数独",
+    "url": "https://github.com/jubalh/nudoku",
+    "tags": []
+  },
+  {
+    "name": "3D Hartwing Chess Set",
+    "desc": "基于 HTML/CSS/JavaScript 构建的 3D 国际象棋游戏。",
+    "url": "https://github.com/juliangarnier/3D-Hartwig-chess-set",
+    "tags": []
+  },
+  {
+    "name": "c4",
+    "desc": "四子连珠对战游戏，支持与 AI 进行对抗。",
+    "url": "https://github.com/kenrick95/c4",
+    "tags": []
+  },
+  {
+    "name": "Desperate Gods",
+    "desc": "免费在线桌游，还原真实桌游规则——系统不强制执行任何规则。",
+    "url": "https://github.com/David20321/FTJ",
+    "tags": []
+  },
+  {
+    "name": "Duet (Veiled Dominion)",
+    "desc": "开源非对称国际象棋变体，胜利条件反转：当你的变形棋子失去控制时即告负，而非王被将死。支持 AI 对手、远程多人对战，以及可选的战争迷雾模式。",
+    "url": "https://github.com/Loptr-Lab/duet-solo-hackathon",
+    "tags": []
+  },
+  {
+    "name": "Green Mahjong",
+    "desc": "使用 HTML/CSS/JavaScript 实现的单人麻将接龙游戏。",
+    "url": "https://github.com/danbeck/green-mahjong",
+    "tags": []
+  },
+  {
+    "name": "Kriegspiel",
+    "desc": "不完全信息博弈类游戏，为 Kriegspiel 国际象棋的一种变体。",
+    "url": "https://github.com/binarymax/kriegspiel",
+    "tags": []
+  }
+]

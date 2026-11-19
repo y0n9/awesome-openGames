@@ -1,0 +1,26 @@
+[
+  {
+    "name": "OpenToonz",
+    "desc": "吉卜力同款免费商用动画工具",
+    "url": "https://github.com/opentoonz/opentoonz",
+    "tags": []
+  },
+  {
+    "name": "Synfig",
+    "desc": "矢量补间动画，关键帧自动补间",
+    "url": "https://github.com/synfig/synfig",
+    "tags": []
+  },
+  {
+    "name": "Pencil2D",
+    "desc": "零门槛手绘逐帧动画",
+    "url": "https://github.com/pencil2d/pencil",
+    "tags": []
+  },
+  {
+    "name": "DragonBones",
+    "desc": "2D 骨骼动画，一套贴图复用全套动作",
+    "url": "https://github.com/AxGuo/DragonBones",
+    "tags": []
+  }
+]

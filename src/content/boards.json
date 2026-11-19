@@ -1,0 +1,205 @@
+[
+  {
+    "name": "开源游戏",
+    "slug": "b1",
+    "order": 1,
+    "color": "var(--og-board-b1)",
+    "icon": "gamepad-2",
+    "categories": [
+      {
+        "name": "即时战略 RTS（含经典重制）",
+        "slug": "b1-c1",
+        "itemCount": 12
+      },
+      {
+        "name": "回合制策略 / 4X",
+        "slug": "b1-c2",
+        "itemCount": 85
+      },
+      {
+        "name": "第一人称射击 FPS（含 id/Build 经典）",
+        "slug": "b1-c3",
+        "itemCount": 37
+      },
+      {
+        "name": "动作与冒险",
+        "slug": "b1-c4",
+        "itemCount": 12
+      },
+      {
+        "name": "平台跳跃",
+        "slug": "b1-c5",
+        "itemCount": 23
+      },
+      {
+        "name": "Roguelike 地牢",
+        "slug": "b1-c6",
+        "itemCount": 11
+      },
+      {
+        "name": "角色扮演 RPG（含大作重制）",
+        "slug": "b1-c7",
+        "itemCount": 27
+      },
+      {
+        "name": "大型多人 MMO / 沙盒体素",
+        "slug": "b1-c8",
+        "itemCount": 27
+      },
+      {
+        "name": "竞速与飞行",
+        "slug": "b1-c9",
+        "itemCount": 16
+      },
+      {
+        "name": "解谜与益智",
+        "slug": "b1-c10",
+        "itemCount": 52
+      },
+      {
+        "name": "棋牌、卡牌与桌游",
+        "slug": "b1-c11",
+        "itemCount": 16
+      },
+      {
+        "name": "街机与休闲合集",
+        "slug": "b1-c12",
+        "itemCount": 124
+      },
+      {
+        "name": "音乐节奏",
+        "slug": "b1-c13",
+        "itemCount": 10
+      },
+      {
+        "name": "AI 生成游戏",
+        "slug": "b1-c14",
+        "itemCount": 15
+      },
+      {
+        "name": "HTML5 小游戏合集 / 导航平台",
+        "slug": "b1-c15",
+        "itemCount": 1
+      }
+    ]
+  },
+  {
+    "name": "引擎与框架",
+    "slug": "b2",
+    "order": 2,
+    "color": "var(--og-board-b2)",
+    "icon": "hammer",
+    "categories": [
+      {
+        "name": "引擎与框架",
+        "slug": "b2-c1",
+        "itemCount": 136
+      }
+    ]
+  },
+  {
+    "name": "Three.js 3D 游戏精选",
+    "slug": "b3",
+    "order": 3,
+    "color": "var(--og-board-b3)",
+    "icon": "box",
+    "categories": [
+      {
+        "name": "Three.js 3D 游戏精选",
+        "slug": "b3-c1",
+        "itemCount": 97
+      }
+    ]
+  },
+  {
+    "name": "微信小游戏开源项目",
+    "slug": "b4",
+    "order": 4,
+    "color": "var(--og-board-b4)",
+    "icon": "smartphone",
+    "categories": [
+      {
+        "name": "官方与平台侧（有官方持续维护背书）",
+        "slug": "b4-c1",
+        "itemCount": 7
+      },
+      {
+        "name": "引擎、适配层与框架",
+        "slug": "b4-c2",
+        "itemCount": 10
+      },
+      {
+        "name": "完整游戏与可运行工程",
+        "slug": "b4-c3",
+        "itemCount": 11
+      },
+      {
+        "name": "源码合集与资源清单",
+        "slug": "b4-c4",
+        "itemCount": 5
+      }
+    ]
+  },
+  {
+    "name": "游戏美术工具",
+    "slug": "b5",
+    "order": 5,
+    "color": "var(--og-board-b5)",
+    "icon": "palette",
+    "categories": [
+      {
+        "name": "像素与 2D 绘画",
+        "slug": "b5-c1",
+        "itemCount": 4
+      },
+      {
+        "name": "3D 建模与贴图",
+        "slug": "b5-c2",
+        "itemCount": 4
+      },
+      {
+        "name": "2D 动画",
+        "slug": "b5-c3",
+        "itemCount": 4
+      },
+      {
+        "name": "音频（配乐与音效）",
+        "slug": "b5-c4",
+        "itemCount": 4
+      },
+      {
+        "name": "关卡与图集",
+        "slug": "b5-c5",
+        "itemCount": 3
+      }
+    ]
+  },
+  {
+    "name": "商业游戏完整源码专题",
+    "slug": "b6",
+    "order": 6,
+    "color": "var(--og-board-b6)",
+    "icon": "key-round",
+    "categories": [
+      {
+        "name": "商业游戏完整源码专题",
+        "slug": "b6-c1",
+        "itemCount": 6
+      }
+    ]
+  },
+  {
+    "name": "推荐游戏站",
+    "slug": "b7",
+    "order": 7,
+    "color": "var(--og-board-b7)",
+    "icon": "globe",
+    "categories": [
+      {
+        "name": "精选游戏站",
+        "slug": "b7-c1",
+        "itemCount": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+---
+/**
+ * Sidebar —— 左侧分类导航（构建时静态生成）
+ * 数据来自 boards.json（板块/分类定义）+ games 集合（条目计数），经 dataset.js 装配校验。
+ * 交互（板块折叠 / 当前区高亮 / 收藏视图切换）由 ui.js 客户端脚本接管，DOM 结构不变。
+ */
+import { getCollection } from 'astro:content';
+import { icon } from '../js/shared.js';
+import { buildDataset, countItemsByCategory } from '../js/dataset.js';
+
+const { boards, items } = buildDataset(await getCollection('games'));
+const catCounts = countItemsByCategory(items);
+---
+
+<aside class="og-sidebar" id="og-sidebar" aria-label="分类导航">
+  <nav id="og-sidebar-nav" class="og-side-nav">
+    <div class="og-side-views">
+      <button class="og-view-btn active" type="button" data-og-view="all">
+        <Fragment set:html={icon('menu')} />
+        <span>全部</span><span class="og-badge">{items.length}</span>
+      </button>
+      <button class="og-view-btn" type="button" data-og-view="fav">
+        <Fragment set:html={icon('star')} />
+        <span>收藏</span><span class="og-badge" id="og-fav-count">0</span>
+      </button>
+    </div>
+
+    {
+      boards.map((board) => (
+        <div class="og-side-board" data-board={board.slug}>
+          <button class="og-side-board-head" type="button" data-board-toggle={board.slug} aria-expanded="true">
+            <span class="og-dot" style={`--board-color: var(--og-board-${board.slug})`} aria-hidden="true" />
+            <span class="og-side-board-name">{board.name}</span>
+            <span class="og-chevron" set:html={icon('chevron-down')} />
+          </button>
+          <ul class="og-side-cats">
+            {board.categories.map((cat) => (
+              <li>
+                <a class="og-side-link" href={`#${cat.slug}`} data-cat-link={cat.slug}>
+                  <span class="og-side-link-name">{cat.name}</span>
+                  <span class="og-badge">{catCounts.get(cat.slug) ?? 0}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+  </nav>
+</aside>

@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Battle for Wesnoth",
+    "desc": "二十年奇幻六边形战棋，战役海量，单位成长",
+    "url": "https://github.com/wesnoth/wesnoth",
+    "tags": []
+  },
+  {
+    "name": "FreeOrion",
+    "desc": "4X 太空策略，殖民星球到统治星系",
+    "url": "https://github.com/freeorion/freeorion",
+    "tags": []
+  },
+  {
+    "name": "Unciv",
+    "desc": "《文明 V》开源复刻，手机/桌面都能玩",
+    "url": "https://github.com/yairm210/Unciv",
+    "tags": []
+  },
+  {
+    "name": "Freeciv",
+    "desc": "类《文明》的开源常青树",
+    "url": "https://github.com/freeciv/freeciv",
+    "tags": []
+  },
+  {
+    "name": "FreeCol",
+    "desc": "《殖民帝国》重实现，殖民地到独立战争",
+    "url": "https://github.com/FreeCol/freecol",
+    "tags": []
+  },
+  {
+    "name": "fheroes2",
+    "desc": "《英雄无敌 II》引擎重实现，还原度极高",
+    "url": "https://github.com/ihhub/fheroes2",
+    "tags": []
+  },
+  {
+    "name": "VCMI",
+    "desc": "《英雄无敌 III》现代引擎，Mod 源源不断",
+    "url": "https://github.com/vcmi/vcmi",
+    "tags": []
+  },
+  {
+    "name": "OpenXcom",
+    "desc": "《X-COM：UFO防御》开源克隆，Mod 生态旺",
+    "url": "https://github.com/OpenXcom/OpenXcom",
+    "tags": []
+  },
+  {
+    "name": "Ancient Beast",
+    "desc": "回合制战术，具象操控怪兽对打",
+    "url": "https://github.com/FreezingMoon/AncientBeast",
+    "tags": []
+  },
+  {
+    "name": "Athena Crisis",
+    "desc": "现代复古回合制战术（TypeScript）",
+    "url": "https://github.com/nkzw-tech/athena-crisis",
+    "tags": []
+  },
+  {
+    "name": "OpenPanzer",
+    "desc": "《装甲元帅 II》JS/HTML5 重写",
+    "url": "https://github.com/nicupavel/openpanzer",
+    "tags": []
+  },
+  {
+    "name": "Hnefatafl",
+    "desc": "维京棋类",
+    "url": "https://github.com/dcampbell24/hnefatafl",
+    "tags": []
+  },
+  {
+    "name": "Command &amp; Conquer",
+    "desc": "以 HTML5 和 JavaScript 重新实现的初代《命令与征服》即时战略游戏。",
+    "url": "https://github.com/adityaravishankar/command-and-conquer",
+    "tags": []
+  },
+  {
+    "name": "Freeciv-web",
+    "desc": "从建城、资源采集、政权组建到军队打造，最终目标是发展出最强势的文明体系。",
+    "url": "https://github.com/freeciv/freeciv-web",
+    "tags": []
+  },
+  {
+    "name": "Hexa Battle",
+    "desc": "采用 TypeScript 开发，基于 React 与 SVG 构建的回合制地牢探索类游戏。",
+    "url": "https://github.com/itajaja/hb",
+    "tags": []
+  },
+  {
+    "name": "Rapid Dominance",
+    "desc": "开源的回合制策略游戏，为《夺旗》（Enemy Flag）的复刻版本。",
+    "url": "https://github.com/wenta/rapid-dominance",
+    "tags": []
+  },
+  {
+    "name": "Tower Defense",
+    "desc": "基于 Three.js 在 HTML5 中开发的 3D 塔防游戏。",
+    "url": "https://github.com/Casmo/tower-defense",
+    "tags": []
+  },
+  {
+    "name": "FlightGear",
+    "desc": "新增 开源飞行模拟器，涵盖数百种机型与全球地形数据，采用真实空气动力学模型。",
+    "url": "https://github.com/FlightGear/flightgear",
+    "tags": []
+  },
+  {
+    "name": "Simutrans",
+    "desc": "新增 整合铁路、公路、水路及航空运输系统的交通模拟经营游戏。",
+    "url": "https://github.com/simutrans/simutrans",
+    "tags": []
+  },
+  {
+    "name": "Lincity-NG",
+    "desc": "新增 开源城市建造模拟游戏，聚焦能源供应、交通布局与生态可持续发展。",
+    "url": "https://github.com/lincity-ng/lincity-ng",
+    "tags": []
+  },
+  {
+    "name": "Beyond all Reason (BAR)",
+    "desc": "源自《Total Annihilation》模组，基于 SpringRTS 引擎开发的即时战略游戏。",
+    "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+    "tags": []
+  },
+  {
+    "name": "Caesaria",
+    "desc": "经典城建经济模拟游戏《凯撒 III》的现代化重制版本。",
+    "url": "https://github.com/dalerank/caesaria-game",
+    "tags": []
+  },
+  {
+    "name": "CorsixTH",
+    "desc": "《主题医院》的仿制作品。",
+    "url": "https://github.com/CorsixTH/CorsixTH",
+    "tags": []
+  },
+  {
+    "name": "Curse of War",
+    "desc": "快节奏动作策略游戏，支持 ncurses 与 SDL 两种前端界面。",
+    "url": "https://github.com/a-nikolaev/curseofwar",
+    "tags": []
+  },
+  {
+    "name": "Harris",
+    "desc": "以二战期间英国皇家空军轰炸机司令部作战行动为背景的策略游戏。",
+    "url": "https://github.com/ec429/harris",
+    "tags": []
+  },
+  {
+    "name": "KaM Remake",
+    "desc": "使用 Delphi 从零开始重制的《骑士与商人》即时战略游戏。",
+    "url": "https://github.com/Kromster80/kam_remake",
+    "tags": []
+  },
+  {
+    "name": "Last Colony",
+    "desc": "兼具单人战役与多人对战模式的即时战略游戏，完全由 HTML5 与 JavaScript 实现。",
+    "url": "https://github.com/adityaravishankar/last-colony",
+    "tags": []
+  },
+  {
+    "name": "MegaGlest",
+    "desc": "跨平台、3D 的即时战略游戏引擎。",
+    "url": "https://github.com/MegaGlest/megaglest-source",
+    "tags": []
+  },
+  {
+    "name": "Micropolis",
+    "desc": "基于《模拟城市》原始源码开发的城市建设类游戏。",
+    "url": "https://github.com/SimHacker/micropolis",
+    "tags": []
+  },
+  {
+    "name": "OpenDungeons",
+    "desc": "受《地下城守护者》启发的开源游戏，氛围黑暗、潮湿且充满危险。",
+    "url": "https://github.com/OpenDungeons/OpenDungeons",
+    "tags": []
+  },
+  {
+    "name": "OpenE2140",
+    "desc": "基于 OpenRA 引擎对《地球 2140》的重制版。",
+    "url": "https://github.com/OpenE2140/OpenE2140",
+    "tags": []
+  },
+  {
+    "name": "OpenFodder",
+    "desc": "《炮灰》（Cannon Fodder）的开源替代实现。",
+    "url": "https://github.com/OpenFodder/openfodder",
+    "tags": []
+  },
+  {
+    "name": "OpenKrush",
+    "desc": "基于 OpenRA 引擎对《KKnD》与《KKnD2》的重制项目。",
+    "url": "https://github.com/IceReaper/OpenKrush",
+    "tags": []
+  },
+  {
+    "name": "OpenSA",
+    "desc": "基于 OpenRA 引擎对《Swarm Assault》的重制版本。",
+    "url": "https://github.com/Dzierzan/OpenSA",
+    "tags": []
+  },
+  {
+    "name": "OpenTTD",
+    "desc": "改编自 Chris Sawyer 经典作品《运输大亨豪华版》的运输模拟游戏。",
+    "url": "https://github.com/OpenTTD/OpenTTD",
+    "tags": []
+  },
+  {
+    "name": "OpenXcom",
+    "desc": "初代《X-COM》的仿制作品。",
+    "url": "https://github.com/SupSuper/OpenXcom",
+    "tags": []
+  },
+  {
+    "name": "Pax Britannica",
+    "desc": "海底场景、仅需单键操作的即时战略类游戏。",
+    "url": "https://github.com/henkboom/pax-britannica",
+    "tags": []
+  },
+  {
+    "name": "PCOTM (Phone Case of the Monster)",
+    "desc": "以 Ruby 语言开发的游戏，玩家扮演一只搜集手机的怪兽。",
+    "url": "https://github.com/jwoertink/pcotm",
+    "tags": []
+  },
+  {
+    "name": "Pikifen",
+    "desc": "由粉丝打造、基于《皮克敏》引擎的项目，强调可定制性与适应性。",
+    "url": "https://github.com/Espyo/Pikifen",
+    "tags": []
+  },
+  {
+    "name": "Polly-B-Gone",
+    "desc": "物理驱动的平台跳跃游戏，主角是名为 Polly 的勇敢轮式机器人。",
+    "url": "https://github.com/mbostock/polly-b-gone",
+    "tags": []
+  },
+  {
+    "name": "OpenRCT2",
+    "desc": "《过山车大亨 2》的开源重制版本。",
+    "url": "https://github.com/OpenRCT2/OpenRCT2",
+    "tags": []
+  },
+  {
+    "name": "Race into Space",
+    "desc": "回合制太空竞速策略游戏，最初由 Interplay 发行。",
+    "url": "https://github.com/raceintospace/raceintospace",
+    "tags": []
+  },
+  {
+    "name": "Romanov’s Vengeance",
+    "desc": "基于 OpenRA 引擎对《命令与征服：红色警戒 2》的重制版。",
+    "url": "https://github.com/MustaphaTR/Romanovs-Vengeance",
+    "tags": []
+  },
+  {
+    "name": "Seven Kingdoms: Ancient Adversaries",
+    "desc": "2009 年正式开源的经典即时战略游戏。",
+    "url": "https://github.com/the3dfxdude/7kaa",
+    "tags": []
+  },
+  {
+    "name": "Shattered Paradise",
+    "desc": "基于 OpenRA 引擎对《命令与征服：泰伯利亚之日》的重制版本。",
+    "url": "https://github.com/ABrandau/Shattered-Paradise-SDK",
+    "tags": []
+  },
+  {
+    "name": "Source of Tales",
+    "desc": "2012 年“Liberated Pixel Cup”活动中的参赛作品。",
+    "url": "https://github.com/tales/sourceoftales",
+    "tags": []
+  },
+  {
+    "name": "Tanks of Freedom",
+    "desc": "采用等距像素美术风格的回合制策略类游戏。",
+    "url": "https://github.com/w84death/Tanks-of-Freedom",
+    "tags": []
+  },
+  {
+    "name": "Unknown Horizons",
+    "desc": "使用 C++ 与 Python 编写的 2D 等距 RTS 经济策略游戏，依托 Flexible Isometric Free Engine 构建。",
+    "url": "https://github.com/unknown-horizons/unknown-horizons",
+    "tags": []
+  },
+  {
+    "name": "Voxeliq",
+    "desc": "以 C# 实现的基于方块结构的游戏引擎。",
+    "url": "https://github.com/raistlinthewiz/voxeliq",
+    "tags": []
+  },
+  {
+    "name": "Wargus",
+    "desc": "《魔兽争霸 2》的模组，借助 Stratagus 引擎实现原作体验。",
+    "url": "https://github.com/Wargus/wargus",
+    "tags": []
+  },
+  {
+    "name": "Wyrmsun",
+    "desc": "融合真实历史、神话传说与虚构叙事的策略游戏。",
+    "url": "https://github.com/andrettin/wyrmsun",
+    "tags": []
+  },
+  {
+    "name": "Dune Legacy",
+    "desc": "新增 经典 RTS《沙丘 2》的开源重制版，聚焦香料采集与三大家族之间的战争。",
+    "url": "https://github.com/DuneLegacy/dunelegacy",
+    "tags": []
+  },
+  {
+    "name": "UFO:AI",
+    "desc": "新增 《X-COM》精神续作，结合回合制基地管理与战术战斗对抗外星势力。",
+    "url": "https://github.com/ufoai/ufoai",
+    "tags": []
+  },
+  {
+    "name": "Braincup",
+    "desc": "综合锻炼记忆力、专注力与数学能力的小型游戏合集。",
+    "url": "https://github.com/SimonSchubert/Braincup",
+    "tags": []
+  },
+  {
+    "name": "ChaseWhisplyProject",
+    "desc": "《Chase Whisply》为第一人称射击类游戏，目标是搜寻、定位并清除潜伏在四周的幽灵。",
+    "url": "https://github.com/tvbarthel/ChaseWhisplyProject",
+    "tags": []
+  },
+  {
+    "name": "Colorphun",
+    "desc": "以色彩为核心机制的简易安卓小游戏。",
+    "url": "https://github.com/prakhar1989/colorphun",
+    "tags": []
+  },
+  {
+    "name": "Game of Life",
+    "desc": "支持玩家自定义规则的康威生命游戏。",
+    "url": "https://github.com/zsoltk/GameOfLife",
+    "tags": []
+  },
+  {
+    "name": "Gidi Games",
+    "desc": "《Lexis》《井字棋》《Puzzlemania》——三款由 Cocos2d for Android 构建的棋类游戏集合。",
+    "url": "https://github.com/chuvidi2003/GidiGames",
+    "tags": []
+  },
+  {
+    "name": "Green Wall",
+    "desc": "风格诡异且极具上头感的街机类安卓游戏，玩法为将水果甩向墙壁。项目基于 Android Studio 1.0 开发。",
+    "url": "https://github.com/awlzac/greenwall",
+    "tags": []
+  },
+  {
+    "name": "Memory Game",
+    "desc": "专为儿童设计的清爽美观记忆配对游戏。",
+    "url": "https://github.com/sromku/memory-game",
+    "tags": []
+  },
+  {
+    "name": "Pimple Popper",
+    "desc": "使用强大 Godot 引擎打造的挤痘痘模拟小游戏。",
+    "url": "https://github.com/Crazy-Marvin/PimplePopper",
+    "tags": []
+  },
+  {
+    "name": "Pixel Dungeon",
+    "desc": "经典 Roguelike 游戏，采用像素画风，界面设计简洁明了。",
+    "url": "https://github.com/watabou/pixel-dungeon",
+    "tags": []
+  },
+  {
+    "name": "PuzzleGame",
+    "desc": "基于 Cocos2d for Android 实现的滑块拼图游戏。",
+    "url": "https://github.com/chuvidi2003/PuzzleGame",
+    "tags": []
+  },
+  {
+    "name": "Wannabe Tempest",
+    "desc": "对 80 年代街机游戏《Tempest》的复刻版本。",
+    "url": "https://github.com/awlzac/wbta",
+    "tags": []
+  },
+  {
+    "name": "ZapZap",
+    "desc": "极简风格的反应速度测试小游戏，也支持同一设备多人同场竞技。",
+    "url": "https://github.com/noubar/zapzap",
+    "tags": []
+  },
+  {
+    "name": "Bat Loves Bugs",
+    "desc": "以「嗜虫蝙蝠」为主题的街机风格小游戏。",
+    "url": "https://github.com/xyclos/BatLovesBugs",
+    "tags": []
+  },
+  {
+    "name": "Bridges",
+    "desc": "融合桥梁、建筑、收费站及地铁系统等元素的 iOS 解谜游戏。",
+    "url": "https://github.com/zgrossbart/bridges",
+    "tags": []
+  },
+  {
+    "name": "Canabalt",
+    "desc": "《Canabalt》在 iOS 平台的移植版本。",
+    "url": "https://github.com/ericjohnson/canabalt-ios",
+    "tags": []
+  },
+  {
+    "name": "Choose Figure",
+    "desc": "基础逻辑类游戏：从选项中选出正确图形，提升注意力集中度。",
+    "url": "https://github.com/ISosnovik/chooseFigure",
+    "tags": []
+  },
+  {
+    "name": "Doom",
+    "desc": "经典射击游戏《Doom》在 iOS 系统的版本。",
+    "url": "https://github.com/id-Software/DOOM-iOS",
+    "tags": []
+  },
+  {
+    "name": "DrugsNRock",
+    "desc": "在 2013 年全球游戏开发节期间创作的简易多人音乐节奏游戏。",
+    "url": "https://github.com/biou/DrugsNRock",
+    "tags": []
+  },
+  {
+    "name": "FinalFighter",
+    "desc": "使用 Cocos2D 开发的坦克对战对抗游戏。",
+    "url": "https://github.com/sebcode/FinalFighter-iphone",
+    "tags": []
+  },
+  {
+    "name": "Gorillas",
+    "desc": "经典旧作（源自 QBasic）的 iPhone 移植版本。",
+    "url": "https://github.com/Lyndir/Gorillas",
+    "tags": []
+  },
+  {
+    "name": "Light Jockey",
+    "desc": "类似《Auditorium》风格的 iOS 音乐互动游戏。",
+    "url": "https://github.com/jmfieldman/Light-Jockey",
+    "tags": []
+  },
+  {
+    "name": "Lumio",
+    "desc": "基于 Cocos2D 制作的 iOS 解谜游戏，已在 App Store 免费上线。",
+    "url": "https://github.com/joannecdyer/lumio",
+    "tags": []
+  },
+  {
+    "name": "Sakura Fly",
+    "desc": "使用 SpriteKit 构建的 iOS 动作类游戏，可在 App Store 免费获取。",
+    "url": "https://github.com/l800891/Sakura-Fly",
+    "tags": []
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "desc": "iOS 版本源代码已公开发布。",
+    "url": "https://github.com/id-Software/Wolf3D-iOS",
+    "tags": []
+  },
+  {
+    "name": "c4bot",
+    "desc": "支持网页聊天、Facebook Messenger、Skype 以及 Telegram 的四子棋聊天机器人，可与你互动对弈。",
+    "url": "https://github.com/kenrick95/c4bot",
+    "tags": []
+  },
+  {
+    "name": "Akhenaten",
+    "desc": "战略城市建设，基于《法老王 + 克利奥帕特拉》的资源与玩法，扮演古埃及统治者与市长。",
+    "url": "https://github.com/dalerank/Akhenaten",
+    "tags": []
+  },
+  {
+    "name": "Citybound",
+    "desc": "用微观模型模拟数百万个体互动所形成的城市有机体。",
+    "url": "https://github.com/citybound/citybound",
+    "tags": []
+  },
+  {
+    "name": "Cytopia",
+    "desc": "免费开源的复古像素风城市建设游戏。",
+    "url": "https://github.com/Uriopass/Egregoria",
+    "tags": []
+  },
+  {
+    "name": "IsoCity",
+    "desc": "用 NextJS、TypeScript 和 TailwindCSS 制作的等距城市建设模拟。",
+    "url": "https://github.com/bvschaik/julius",
+    "tags": []
+  },
+  {
+    "name": "micropolisJS",
+    "desc": "开源城市模拟器 Micropolis 的手写 JavaScript 移植。",
+    "url": "https://github.com/graememcc/micropolisJS",
+    "tags": []
+  },
+  {
+    "name": "Cytopia",
+    "desc": "免费开源的复古像素风城市建造游戏。",
+    "url": "https://github.com/CytopiaTeam/Cytopia",
+    "tags": []
+  },
+  {
+    "name": "IsoCity",
+    "desc": "等距城市建造模拟，用 NextJS + TypeScript + TailwindCSS 写成，网页直接玩。",
+    "url": "https://github.com/amilich/isometric-city",
+    "tags": []
+  }
+]

@@ -1,0 +1,584 @@
+[
+  {
+    "name": "HexGL",
+    "desc": "2012 反重力赛车，MIT，官网至今可开（A级）",
+    "url": "https://github.com/BKcore/HexGL",
+    "tags": []
+  },
+  {
+    "name": "folio-2019 / 2025",
+    "desc": "把简历做成可驾驶 3D 世界（Bruno Simon）",
+    "url": "https://github.com/brunosimon/folio-2019",
+    "tags": []
+  },
+  {
+    "name": "Slow Roads",
+    "desc": "一个人做的无尽公路驾驶（A级，官网明写 three.js）",
+    "url": "https://slowroads.io/",
+    "tags": []
+  },
+  {
+    "name": "Starshot Genesis",
+    "desc": "Steam 商店简介第一句写 built with Three.js",
+    "url": "https://store.steampowered.com/app/4425750/",
+    "tags": []
+  },
+  {
+    "name": "server-survival",
+    "desc": "用来教云架构的塔防（three.js）",
+    "url": "https://github.com/pshenok/server-survival",
+    "tags": []
+  },
+  {
+    "name": "racing-game",
+    "desc": "社区共同开发的开源 3D 赛车（pmndrs）",
+    "url": "https://github.com/pmndrs/racing-game",
+    "tags": []
+  },
+  {
+    "name": "Sketchbook",
+    "desc": "three.js+cannon.js 的 3D 游乐场",
+    "url": "https://github.com/swift502/Sketchbook",
+    "tags": []
+  },
+  {
+    "name": "3d.city",
+    "desc": "浏览器里的 3D 城市建造",
+    "url": "https://github.com/lo-th/3d.city",
+    "tags": []
+  },
+  {
+    "name": "CubeCity",
+    "desc": "中文开源 2.5D 城建（Vue3+Three.js）",
+    "url": "https://github.com/hexianWeb/CubeCity",
+    "tags": []
+  },
+  {
+    "name": "Expo-Crossy-Road",
+    "desc": "Crossy Road 复刻，Expo+THREE.js 跨端",
+    "url": "https://github.com/EvanBacon/Expo-Crossy-Road",
+    "tags": []
+  },
+  {
+    "name": "dino3d",
+    "desc": "Chrome 恐龙快跑 3D 版",
+    "url": "https://github.com/Priler/dino3d",
+    "tags": []
+  },
+  {
+    "name": "minecraft-threejs",
+    "desc": "中文圈流传的《我的世界》复刻",
+    "url": "https://github.com/vyse12138/minecraft-threejs",
+    "tags": []
+  },
+  {
+    "name": "Astray",
+    "desc": "WebGL 迷宫游戏",
+    "url": "https://github.com/wwwtyro/Astray",
+    "tags": []
+  },
+  {
+    "name": "Claude-of-Duty",
+    "desc": "一条 prompt 生成的 Three.js FPS",
+    "url": "https://github.com/mshumer/Claude-of-Duty",
+    "tags": []
+  },
+  {
+    "name": "voxel-musou",
+    "desc": "《真三国无双》式体素割草，浏览器300小兵",
+    "url": "https://github.com/mike007jd/voxel-musou",
+    "tags": []
+  },
+  {
+    "name": "jungle-trail",
+    "desc": "全程序化第一人称丛林",
+    "url": "https://github.com/StarKnightt/jungle-trail",
+    "tags": []
+  },
+  {
+    "name": "three-descent",
+    "desc": "Mr.doob 本人把《Descent》移植到 three.js",
+    "url": "https://github.com/mrdoob/three-descent",
+    "tags": []
+  },
+  {
+    "name": "townies",
+    "desc": "Three.js+Cloudflare Durable Objects 多人小镇",
+    "url": "https://github.com/Brayden/townies",
+    "tags": []
+  },
+  {
+    "name": "moon-rover",
+    "desc": "月球车勘测游戏，零构建零素材",
+    "url": "https://github.com/winchxyz/moon-rover",
+    "tags": []
+  },
+  {
+    "name": "backrooms-noclip",
+    "desc": "Backrooms 题材 roguelike",
+    "url": "https://github.com/AgenteMaxo/backrooms-noclip",
+    "tags": []
+  },
+  {
+    "name": "folio-2025",
+    "desc": "2025 版作品集，官网写明 three.js 是渲染库、TSL 兼顾 WebGL 与 WebGPU；2023★；最后推送 2026-11-04",
+    "url": "https://github.com/brunosimon/folio-2025",
+    "tags": []
+  },
+  {
+    "name": "react-three-egg",
+    "desc": "中文社区常提的「蛋仔派对」Q 版闯关复刻；45★；最后推送 2024-03-15",
+    "url": "https://github.com/Steve245270533/react-three-egg",
+    "tags": []
+  },
+  {
+    "name": "pillar-valley",
+    "desc": "Expo 加 three.js 的跨平台小游戏；774★；最后推送 2026-05-26",
+    "url": "https://github.com/EvanBacon/pillar-valley",
+    "tags": []
+  },
+  {
+    "name": "threejs-tetris-react",
+    "desc": "3D 俄罗斯方块；552★；最后推送 2026-10-28",
+    "url": "https://github.com/RylanBot/threejs-tetris-react",
+    "tags": []
+  },
+  {
+    "name": "rubiks-cube",
+    "desc": "可自定义阶数的 3D 魔方；524★；最后推送 2022-08-12",
+    "url": "https://github.com/pengfeiw/rubiks-cube",
+    "tags": []
+  },
+  {
+    "name": "Claude-of-Tanks",
+    "desc": "《坦克世界》风格的装甲对战模拟器；533★；最后推送 2026-11-09",
+    "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks",
+    "tags": []
+  },
+  {
+    "name": "glenn-explore",
+    "desc": "Mapbox 加 Three.js 的多人驾驶；434★；最后推送 2026-01-04",
+    "url": "https://github.com/WilliamAvHolmberg/glenn-explore",
+    "tags": []
+  },
+  {
+    "name": "racing-game-cljs",
+    "desc": "ClojureScript 写的 3D 竞速；259★；最后推送 2021-06-24",
+    "url": "https://github.com/ertugrulcetin/racing-game-cljs",
+    "tags": []
+  },
+  {
+    "name": "simcity-threejs-clone",
+    "desc": "3D SimCity 复刻；277★；最后推送 2025-12-20",
+    "url": "https://github.com/dgreenheck/simcity-threejs-clone",
+    "tags": []
+  },
+  {
+    "name": "lba2remake",
+    "desc": "《双子星奇遇记 2》的 JavaScript 重实现；289★；最后推送 2026-04-17",
+    "url": "https://github.com/LBALab/lba2remake",
+    "tags": []
+  },
+  {
+    "name": "enari-engine",
+    "desc": "ThreeJS 第一人称射击实验场；281★；最后推送 2025-07-09",
+    "url": "https://github.com/iErcann/enari-engine",
+    "tags": []
+  },
+  {
+    "name": "three-js-games",
+    "desc": "YouTube 频道配套的 three.js 游戏开发实验合集；279★；最后推送 2023-06-16",
+    "url": "https://github.com/SuboptimalEng/three-js-games",
+    "tags": []
+  },
+  {
+    "name": "cuberun",
+    "desc": "react-three-fiber 做的小型 3D 游戏；347★；最后推送 2023-10-12",
+    "url": "https://github.com/akarlsten/cuberun",
+    "tags": []
+  },
+  {
+    "name": "droneWorld",
+    "desc": "无人机视角的 3D 地图游乐场；335★；最后推送 2023-01-06",
+    "url": "https://github.com/blaze33/droneWorld",
+    "tags": []
+  },
+  {
+    "name": "Three.js-City",
+    "desc": "能开车逛的交互城市；237★；最后推送 2017-05-26",
+    "url": "https://github.com/mauriciopoppe/Three.js-City",
+    "tags": []
+  },
+  {
+    "name": "cam-run",
+    "desc": "用摄像头控制角色的无限跑酷；199★；最后推送 2025-03-25",
+    "url": "https://github.com/Jamesun921/cam-run",
+    "tags": []
+  },
+  {
+    "name": "NotBlox",
+    "desc": "Node.js 多人车辆游戏，带物理；186★；最后推送 2026-06-07",
+    "url": "https://github.com/iErcann/NotBlox",
+    "tags": []
+  },
+  {
+    "name": "Third-Person-MC",
+    "desc": "浏览器里的第三人称《我的世界》；197★；最后推送 2026-07-27",
+    "url": "https://github.com/hexianWeb/Third-Person-MC",
+    "tags": []
+  },
+  {
+    "name": "VoxLords",
+    "desc": "自带体素引擎的 WebGL 游戏；201★；最后推送 2020-10-01",
+    "url": "https://github.com/Lallassu/VoxLords",
+    "tags": []
+  },
+  {
+    "name": "Qake",
+    "desc": "体素引擎演示；146★；最后推送 2024-01-02",
+    "url": "https://github.com/Lallassu/Qake",
+    "tags": []
+  },
+  {
+    "name": "squidgame",
+    "desc": "《鱿鱼游戏》一二三木头人；158★；最后推送 2021-10-24",
+    "url": "https://github.com/0shuvo0/squidgame",
+    "tags": []
+  },
+  {
+    "name": "t-rex",
+    "desc": "Chrome 恐龙跑酷重制；157★；最后推送 2021-06-28",
+    "url": "https://github.com/rossning92/t-rex",
+    "tags": []
+  },
+  {
+    "name": "retroflightsim",
+    "desc": "复刻 80 年代末飞行模拟的画面；145★；最后推送 2023-05-10",
+    "url": "https://github.com/ruben3d/retroflightsim",
+    "tags": []
+  },
+  {
+    "name": "rubiks-cube",
+    "desc": "TypeScript 写的 3D 魔方；145★；最后推送 2025-08-06",
+    "url": "https://github.com/Aaron-Bird/rubiks-cube",
+    "tags": []
+  },
+  {
+    "name": "SYNTHBLAST-threejs-game",
+    "desc": "复古未来风坦克游戏，纯 JavaScript；142★；最后推送 2026-07-21",
+    "url": "https://github.com/brianrisk/SYNTHBLAST-threejs-game",
+    "tags": []
+  },
+  {
+    "name": "long-wind",
+    "desc": "中文武侠实时动作游戏《长风》；116★；最后推送 2026-11-02",
+    "url": "https://github.com/jbang2004/long-wind",
+    "tags": []
+  },
+  {
+    "name": "summer-cycle",
+    "desc": "吉卜力风骑行游戏；71★；最后推送 2026-11-03",
+    "url": "https://github.com/StarKnightt/summer-cycle",
+    "tags": []
+  },
+  {
+    "name": "operation-ironhold",
+    "desc": "单文件 290KB 的完整 FPS；115★；最后推送 2026-11-03",
+    "url": "https://github.com/StarKnightt/operation-ironhold",
+    "tags": []
+  },
+  {
+    "name": "game-boy-challenge",
+    "desc": "Three.js Journey Challenge 的交互 Game Boy；116★；最后推送 2025-08-10",
+    "url": "https://github.com/Snokke/game-boy-challenge",
+    "tags": []
+  },
+  {
+    "name": "tres-the-aviator",
+    "desc": "TresJS 加 three.js r163 重做的 The Aviator；104★；最后推送 2024-06-07",
+    "url": "https://github.com/enpitsuLin/tres-the-aviator",
+    "tags": []
+  },
+  {
+    "name": "race-game-threejs",
+    "desc": "中文盘点里常出现的简易竞速；97★；最后推送 2017-01-26",
+    "url": "https://github.com/noiron/race-game-threejs",
+    "tags": []
+  },
+  {
+    "name": "bus_derby",
+    "desc": "CodePen 上的 3D 车辆碰碰车；97★；最后推送 2019-10-30",
+    "url": "https://github.com/matthewmain/bus_derby",
+    "tags": []
+  },
+  {
+    "name": "drysland",
+    "desc": "Three.js Journey Challenge 017 第一名，接水管解谜；94★；最后推送 2026-05-03",
+    "url": "https://github.com/dammafra/drysland",
+    "tags": []
+  },
+  {
+    "name": "hook-a-fish",
+    "desc": "Three.js Journey Challenge 019 第一名，钓鱼游戏；43★；最后推送 2026-10-20",
+    "url": "https://github.com/dammafra/hook-a-fish",
+    "tags": []
+  },
+  {
+    "name": "r3f-spotify-game",
+    "desc": "接 Spotify API 的音乐游戏；90★；最后推送 2022-09-18",
+    "url": "https://github.com/filahf/r3f-spotify-game",
+    "tags": []
+  },
+  {
+    "name": "cherry-charm",
+    "desc": "Three.js 加 React 的 3D 老虎机；87★；最后推送 2026-06-13",
+    "url": "https://github.com/michaelkolesidis/cherry-charm",
+    "tags": []
+  },
+  {
+    "name": "beachy-beachy-ball",
+    "desc": "3D 沙滩球闯关；31★；最后推送 2025-06-02",
+    "url": "https://github.com/michaelkolesidis/beachy-beachy-ball",
+    "tags": []
+  },
+  {
+    "name": "rock-paper-scissors-3d",
+    "desc": "3D 猜拳；22★；最后推送 2025-06-03",
+    "url": "https://github.com/michaelkolesidis/rock-paper-scissors-3d",
+    "tags": []
+  },
+  {
+    "name": "zigzag",
+    "desc": "React Three Fiber 的 3D ZigZag；12★；最后推送 2026-11-02",
+    "url": "https://github.com/michaelkolesidis/zigzag",
+    "tags": []
+  },
+  {
+    "name": "SlashSaber",
+    "desc": "three.js 加 Vue 的无限挥砍游戏；75★；最后推送 2026-08-31",
+    "url": "https://github.com/honzaap/SlashSaber",
+    "tags": []
+  },
+  {
+    "name": "Sunset-Cyberspace",
+    "desc": "复古跑酷，Expo 加 Three.js；84★；最后推送 2026-05-26",
+    "url": "https://github.com/EvanBacon/Sunset-Cyberspace",
+    "tags": []
+  },
+  {
+    "name": "expo-stack",
+    "desc": "Stack 叠方块复刻；83★；最后推送 2026-04-14",
+    "url": "https://github.com/akinncar/expo-stack",
+    "tags": []
+  },
+  {
+    "name": "annihilate",
+    "desc": "早期 JS 动作游戏；65★；最后推送 2023-01-04",
+    "url": "https://github.com/gonnavis/annihilate",
+    "tags": []
+  },
+  {
+    "name": "WeChatGame-three-js",
+    "desc": "把改过的 three.js 跑进微信小游戏平台的演示；63★；最后推送 2026-09-30",
+    "url": "https://github.com/eastecho/WeChatGame-three-js",
+    "tags": []
+  },
+  {
+    "name": "threejsWithWechatGame",
+    "desc": "早期微信小游戏开发示例；122★；最后推送 2018-11-28",
+    "url": "https://github.com/myemperor/threejsWithWechatGame",
+    "tags": []
+  },
+  {
+    "name": "apex-gp",
+    "desc": "全程序化 F1 竞速，零素材文件；48★；最后推送 2026-08-02",
+    "url": "https://github.com/jolbol1/apex-gp",
+    "tags": []
+  },
+  {
+    "name": "turbo-kart-rush",
+    "desc": "纯 Three.js 的马里奥赛车式卡丁车；47★；最后推送 2026-09-01",
+    "url": "https://github.com/bridge-mind/turbo-kart-rush",
+    "tags": []
+  },
+  {
+    "name": "sunbreak-downhill-3D-game",
+    "desc": "卡通渲染下坡 BMX 竞速；57★；最后推送 2026-09-05",
+    "url": "https://github.com/Imirushik/sunbreak-downhill-3D-game",
+    "tags": []
+  },
+  {
+    "name": "bull-rush",
+    "desc": "霓虹风 3D 无尽跑酷；346★；最后推送 2026-07-20",
+    "url": "https://github.com/winsznx/bull-rush",
+    "tags": []
+  },
+  {
+    "name": "mine.js",
+    "desc": "体素世界，后来演进为 voxelize；330★；最后推送 2024-03-23",
+    "url": "https://github.com/shaoruu/mine.js",
+    "tags": []
+  },
+  {
+    "name": "mint-playground",
+    "desc": "开源 Three.js 体验合集；480★；最后推送 2026-10-30",
+    "url": "https://github.com/mintdotgg/mint-playground",
+    "tags": []
+  },
+  {
+    "name": "YetAnotherZombieHorror",
+    "desc": "第一／第三人称丧尸生存射击；32★；最后推送 2025-04-05",
+    "url": "https://github.com/UstymUkhman/YetAnotherZombieHorror",
+    "tags": []
+  },
+  {
+    "name": "jumpy-balls",
+    "desc": "Mozilla 用 ecsy 加 three.js 加 ammo.js 做的示例游戏；35★；最后推送 2024-07-22",
+    "url": "https://github.com/MozillaReality/jumpy-balls",
+    "tags": []
+  },
+  {
+    "name": "toonks-game",
+    "desc": "3D 多人小坦克对战；42★；最后推送 2023-01-25",
+    "url": "https://github.com/maxscharwath/toonks-game",
+    "tags": []
+  },
+  {
+    "name": "bzo",
+    "desc": "Battlezone Online，浏览器里的多人坦克；40★；最后推送 2026-11-08",
+    "url": "https://github.com/timriker/bzo",
+    "tags": []
+  },
+  {
+    "name": "web-racing",
+    "desc": "Three.js 加 Peer.js 的多人竞速；34★；最后推送 2026-08-25",
+    "url": "https://github.com/MankyDanky/web-racing",
+    "tags": []
+  },
+  {
+    "name": "crossy-road",
+    "desc": "一个周末做出的 Crossy Road；30★；最后推送 2020-08-16",
+    "url": "https://github.com/GeekBoySupreme/crossy-road",
+    "tags": []
+  },
+  {
+    "name": "Boxy-Run",
+    "desc": "《神庙逃亡》式跑酷；30★；最后推送 2024-03-20",
+    "url": "https://github.com/wanfungchui/Boxy-Run",
+    "tags": []
+  },
+  {
+    "name": "offroadJS_v2",
+    "desc": "three.js 加 cannon.es 的越野游戏；30★；最后推送 2026-06-17",
+    "url": "https://github.com/tomo0613/offroadJS_v2",
+    "tags": []
+  },
+  {
+    "name": "CrossRoad",
+    "desc": "3D 小鸡过马路；96★；最后推送 2025-05-30",
+    "url": "https://github.com/hexianWeb/CrossRoad",
+    "tags": []
+  },
+  {
+    "name": "threejs-tactics-game",
+    "desc": "《最终幻想战略版》风格的战棋；34★；最后推送 2026-03-06",
+    "url": "https://github.com/chongdashu/threejs-tactics-game",
+    "tags": []
+  },
+  {
+    "name": "games",
+    "desc": "一个仓库里 142 个可直接玩的小游戏；31★；最后推送 2026-04-26",
+    "url": "https://github.com/sausi-7/games",
+    "tags": []
+  },
+  {
+    "name": "threejs-games.github.io",
+    "desc": "3D 世界创建与游戏合集站；29★；最后推送 2026-02-09",
+    "url": "https://github.com/threejs-games/threejs-games.github.io",
+    "tags": []
+  },
+  {
+    "name": "MineWorld",
+    "desc": "中文 3D 像素方块世界探索；21★；最后推送 2026-07-18",
+    "url": "https://github.com/EVEDensity/MineWorld",
+    "tags": []
+  },
+  {
+    "name": "goose-catch",
+    "desc": "复刻「抓大鹅」的中文小游戏；16★；最后推送 2025-11-11",
+    "url": "https://github.com/Yuming0929/goose-catch",
+    "tags": []
+  },
+  {
+    "name": "snack-hole-game",
+    "desc": "在 itch.io 上也叫 Snack Hole 的吞噬游戏；14★；最后推送 2026-10-28",
+    "url": "https://github.com/SamadiPour/snack-hole-game",
+    "tags": []
+  },
+  {
+    "name": "tower-stack-game",
+    "desc": "Three.js 叠塔游戏；11★；最后推送 2022-12-02",
+    "url": "https://github.com/meshde/tower-stack-game",
+    "tags": []
+  },
+  {
+    "name": "hearthlight.github.io",
+    "desc": "浏览器里的像素风冒险 demo；32★；最后推送 2026-11-02",
+    "url": "https://github.com/Hearthlight/hearthlight.github.io",
+    "tags": []
+  },
+  {
+    "name": "ThreeJs-Fishing-Game",
+    "desc": "浏览器 3D 钓鱼游戏；4★；最后推送 2026-10-03",
+    "url": "https://github.com/teitasan/ThreeJs-Fishing-Game",
+    "tags": []
+  },
+  {
+    "name": "3DChess",
+    "desc": "浏览器 3D 国际象棋；1★；最后推送 2026-01-18",
+    "url": "https://github.com/NikoLaaks/3DChess",
+    "tags": []
+  },
+  {
+    "name": "the-world-engine.ts",
+    "desc": "Unity 风格的浏览器游戏引擎；30★；最后推送 2023-08-04 三、中文社区反复出现的开源小游戏",
+    "url": "https://github.com/The-World-Space/the-world-engine.ts",
+    "tags": []
+  },
+  {
+    "name": "yangmei120/jump",
+    "desc": "低配版跳一跳，README 写明基于 Three.js",
+    "url": "https://github.com/yangmei120/jump",
+    "tags": []
+  },
+  {
+    "name": "hu-bo/three-jump",
+    "desc": "threejs 仿跳一跳，含完整开发笔记",
+    "url": "https://github.com/hu-bo/three-jump",
+    "tags": []
+  },
+  {
+    "name": "阿狸的多元宇宙",
+    "desc": "Three.js 加 React 加 CANNON 的 Low Poly 探索小游戏",
+    "url": "https://github.com/dragonir/3d",
+    "tags": []
+  },
+  {
+    "name": "3D 乒乓颠球",
+    "desc": "React Three Fiber 加 Cannon.js 的物理小游戏",
+    "url": "https://github.com/dragonir/threejs-odessey",
+    "tags": []
+  },
+  {
+    "name": "Beauty and Dragonball",
+    "desc": "3D 场景交互小游戏",
+    "url": "https://github.com/jCodeLife/beauty-and-dragonball",
+    "tags": []
+  },
+  {
+    "name": "3D 球体抽奖",
+    "desc": "Express 加 Three.js 的年会抽奖程序 四、官方论坛 Showcase：作者自己来发帖",
+    "url": "https://github.com/moshang-xc/lottery",
+    "tags": []
+  }
+]

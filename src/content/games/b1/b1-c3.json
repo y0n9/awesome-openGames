@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Xonotic",
+    "desc": "高速竞技场 FPS，火箭跳滑铲，开源竞技射击标杆",
+    "url": "https://gitlab.com/xonotic/xonotic",
+    "tags": []
+  },
+  {
+    "name": "Red Eclipse",
+    "desc": "跑酷+蹬墙跳的高速竞技 FPS",
+    "url": "https://github.com/redeclipse/base",
+    "tags": []
+  },
+  {
+    "name": "AssaultCube",
+    "desc": "配置要求极低的多人 FPS（CUBE 引擎）",
+    "url": "https://github.com/assaultcube/AC",
+    "tags": []
+  },
+  {
+    "name": "The Dark Mod",
+    "desc": "《神偷》风格第一人称潜行，内容量惊人",
+    "url": "https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk",
+    "tags": []
+  },
+  {
+    "name": "Unvanquished",
+    "desc": "人类 vs 异形，FPS+RTS 混合",
+    "url": "https://github.com/Unvanquished/Unvanquished",
+    "tags": []
+  },
+  {
+    "name": "Tremulous",
+    "desc": "人类 vs 异形 FPS+建造",
+    "url": "https://github.com/darklegion/tremulous",
+    "tags": []
+  },
+  {
+    "name": "OpenLara",
+    "desc": "《古墓丽影》开源引擎",
+    "url": "https://github.com/XProger/OpenLara",
+    "tags": []
+  },
+  {
+    "name": "Freedoom",
+    "desc": "基于经典 Doom 引擎的自由软件 FPS",
+    "url": "https://github.com/freedoom/freedoom",
+    "tags": []
+  },
+  {
+    "name": "Ioquake3",
+    "desc": "雷神之锤3 自由引擎",
+    "url": "https://github.com/ioquake/ioq3",
+    "tags": []
+  },
+  {
+    "name": "Surreal Engine",
+    "desc": "《虚幻竞技场》引擎重实现",
+    "url": "https://github.com/dpjudas/SurrealEngine",
+    "tags": []
+  },
+  {
+    "name": "Doom（源码）",
+    "desc": "id 官方公布的经典 Doom 源码",
+    "url": "https://github.com/id-Software/DOOM",
+    "tags": []
+  },
+  {
+    "name": "Quake / Quake II / Quake III",
+    "desc": "id 公布的雷神之锤系列源码",
+    "url": "https://github.com/id-Software/Quake",
+    "tags": []
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "desc": "id 公布的德军总部源码",
+    "url": "https://github.com/id-Software/wolf3d",
+    "tags": []
+  },
+  {
+    "name": "Duke Nukem 3D",
+    "desc": "Build 引擎源码（官方公布）",
+    "url": "https://github.com/videogamepreservation/dukenukem3d",
+    "tags": []
+  },
+  {
+    "name": "Shadow Warrior",
+    "desc": "《影子武士》官方源码",
+    "url": "https://github.com/Azarien/shadow-warrior",
+    "tags": []
+  },
+  {
+    "name": "Raze / EDuke32 / NBlood",
+    "desc": "Build 系多游戏现代移植",
+    "url": "https://github.com/ZDoom/Raze",
+    "tags": []
+  },
+  {
+    "name": "GZDoom",
+    "desc": "现代 Doom 源引擎，海量 Doom 模组启动器",
+    "url": "https://github.com/ZDoom/gzdoom",
+    "tags": []
+  },
+  {
+    "name": "Backdooms",
+    "desc": "受 1993 年《DOOM》与「后室」概念启发的游戏，体积极小，可完整嵌入一个二维码中。",
+    "url": "https://github.com/Kuberwastaken/backdooms",
+    "tags": []
+  },
+  {
+    "name": "BananaBread",
+    "desc": "将 Cube 2/Sauerbraten 的 3D 游戏引擎及第一人称射击功能移植至网页端，利用 Emscripten 将 C++ 与 OpenGL 编译为 JavaScript 与 WebGL。",
+    "url": "https://github.com/kripken/BananaBread",
+    "tags": []
+  },
+  {
+    "name": "Darkest Hour",
+    "desc": "以《红色管弦乐队：Ostfront》为基础构建的二战题材在线多人战术射击游戏。",
+    "url": "https://github.com/DarklightGames/DarkestHour",
+    "tags": []
+  },
+  {
+    "name": "GlPortal",
+    "desc": "使用 C++ 编写的现代 3D 游戏与引擎，支持传送门等机制。",
+    "url": "https://github.com/GlPortal/glPortal",
+    "tags": []
+  },
+  {
+    "name": "Nazi Zombies Portable",
+    "desc": "《使命召唤：僵尸》的简化重制版本，依托多个增强型 Quake 引擎分支实现。",
+    "url": "https://github.com/nzp-team/nzportable",
+    "tags": []
+  },
+  {
+    "name": "Openspades",
+    "desc": "兼容《Ace of Spades》0.75 版本的客户端。",
+    "url": "https://github.com/yvt/openspades",
+    "tags": []
+  },
+  {
+    "name": "Urban Terror",
+    "desc": "自由软件多人第一人称射击游戏，可在任意兼容《雷神之锤 III 竞技场》引擎的环境中运行。",
+    "url": "https://github.com/FrozenSand/UrbanTerror4",
+    "tags": []
+  },
+  {
+    "name": "Warsow",
+    "desc": "设定于未来卡通世界的高速度第一人称射击游戏。",
+    "url": "https://github.com/Warsow/qfusion",
+    "tags": []
+  },
+  {
+    "name": "Xonotic",
+    "desc": "极具吸引力的竞技场式第一人称射击游戏，操作流畅，武器种类多样。",
+    "url": "https://github.com/xonotic/xonotic",
+    "tags": []
+  },
+  {
+    "name": "Sauerbraten",
+    "desc": "新增 支持实时地图创作的竞技类 FPS 游戏，可在游戏过程中即时构建关卡，拥有丰富的社区自制地图资源。",
+    "url": "https://github.com/sauerbraten/sauerbraten",
+    "tags": []
+  },
+  {
+    "name": ".kkrieger",
+    "desc": "德国 demogroup .theprodukkt（曾属 Farbrausch）制作的第一人称射击，2004 年 4 月在 Breakpoint 的 96k 比赛中获第一。",
+    "url": "https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger",
+    "tags": []
+  },
+  {
+    "name": "Descent 3",
+    "desc": "第一人称射击。",
+    "url": "https://github.com/kevinbentley/Descent3",
+    "tags": []
+  },
+  {
+    "name": "Xonotic",
+    "desc": "上瘾的竞技场 FPS，移动手感干脆，武器种类丰富。",
+    "url": "https://github.com/atsb/NakedAVP",
+    "tags": []
+  },
+  {
+    "name": "Doom",
+    "desc": "",
+    "url": "https://github.com/Erick194/DOOM64-RE",
+    "tags": []
+  },
+  {
+    "name": "Quake",
+    "desc": "",
+    "url": "https://github.com/Henrique194/chocolate-quake",
+    "tags": []
+  },
+  {
+    "name": "Quake II",
+    "desc": "",
+    "url": "https://github.com/id-Software/Quake-2",
+    "tags": []
+  },
+  {
+    "name": "Quake III Arena",
+    "desc": "",
+    "url": "https://github.com/id-Software/Quake-III-Arena",
+    "tags": []
+  },
+  {
+    "name": "Chocolate Doom",
+    "desc": "尽量还原 1990 年代《Doom》体验的移植。",
+    "url": "https://github.com/chocolate-doom/chocolate-doom",
+    "tags": []
+  },
+  {
+    "name": "Jumpy",
+    "desc": "战术 2D 射击。",
+    "url": "https://github.com/fishfolk/jumpy",
+    "tags": []
+  },
+  {
+    "name": "SDL Sopwith",
+    "desc": "将经典双翼机射击《Sopwith》移植到现代电脑与操作系统。",
+    "url": "https://github.com/fragglet/sdl-sopwith",
+    "tags": []
+  }
+]

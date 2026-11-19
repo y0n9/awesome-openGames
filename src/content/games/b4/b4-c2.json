@@ -1,0 +1,62 @@
+[
+  {
+    "name": "cocos-engine",
+    "desc": "事实标准级开源引擎，内置微信小游戏插件省首包体积",
+    "url": "https://github.com/cocos/cocos-engine",
+    "tags": []
+  },
+  {
+    "name": "LayaAir",
+    "desc": "2D/3D 全平台，原生导出微信小游戏",
+    "url": "https://github.com/layabox/LayaAir",
+    "tags": []
+  },
+  {
+    "name": "estella",
+    "desc": "2026 新引擎：TS SDK+Wasm+编辑器，一套发布多端",
+    "url": "https://github.com/esengine/estella",
+    "tags": []
+  },
+  {
+    "name": "godot-minigame",
+    "desc": "Godot 4 导出微信小游戏的插件",
+    "url": "https://github.com/godothub/godot-minigame",
+    "tags": []
+  },
+  {
+    "name": "three-platformize",
+    "desc": "把 Three.js 平台化适配到微信/小游戏（594）",
+    "url": "https://github.com/deepkolos/three-platformize",
+    "tags": []
+  },
+  {
+    "name": "weapp-adapter(finscn)",
+    "desc": "经典 ES6 版适配器，让 Pixi/Three/Babylon 在小游戏跑",
+    "url": "https://github.com/finscn/weapp-adapter",
+    "tags": []
+  },
+  {
+    "name": "easycanvas",
+    "desc": "数据驱动的 2D/3D Canvas 库，支持 JSX+微信小游戏",
+    "url": "https://github.com/c-zhuo/easycanvas",
+    "tags": []
+  },
+  {
+    "name": "sapling2d",
+    "desc": "代码优先、AI Agent 友好的 2D 引擎（PixiJS v8）",
+    "url": "https://github.com/sapling2d/sapling2d",
+    "tags": []
+  },
+  {
+    "name": "phaser-wx-template",
+    "desc": "Gitee 上 Phaser 3 双端模板（网页+微信）",
+    "url": "https://gitee.com/wbgbg/phaser-wx-template",
+    "tags": []
+  },
+  {
+    "name": "MeteorWish",
+    "desc": "基于团结引擎的微信/抖音双平台小游戏框架（110）",
+    "url": "https://github.com/VastStarryRiver/MeteorWish",
+    "tags": []
+  }
+]

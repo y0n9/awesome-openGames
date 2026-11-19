@@ -1,0 +1,818 @@
+[
+  {
+    "name": "Godot",
+    "desc": "最流行的开源游戏引擎，轻量、2D 尤其舒服",
+    "url": "https://github.com/godotengine/godot",
+    "tags": []
+  },
+  {
+    "name": "Bevy",
+    "desc": "Rust 数据驱动引擎，学 ECS 架构首选",
+    "url": "https://github.com/bevyengine/bevy",
+    "tags": []
+  },
+  {
+    "name": "LOVE",
+    "desc": "Lua 2D 框架，几百行出一个完整小游戏",
+    "url": "https://github.com/love2d/love",
+    "tags": []
+  },
+  {
+    "name": "GDevelop",
+    "desc": "可视化、几乎不用写代码，做原型与教学好用",
+    "url": "https://github.com/4ian/GDevelop",
+    "tags": []
+  },
+  {
+    "name": "raylib",
+    "desc": "C 语言游戏编程库，从底层理解图形输入的教材",
+    "url": "https://github.com/raysan5/raylib",
+    "tags": []
+  },
+  {
+    "name": "Defold",
+    "desc": "轻量跨平台 2D/3D 引擎",
+    "url": "https://github.com/defold/defold",
+    "tags": []
+  },
+  {
+    "name": "Cocos2d-x / Cocos Creator",
+    "desc": "老牌跨平台 2D 引擎，中文社区教程最多",
+    "url": "https://github.com/cocos/cocos-engine",
+    "tags": []
+  },
+  {
+    "name": "LayaAir",
+    "desc": "2D/3D 全平台，原生导出微信/小游戏",
+    "url": "https://github.com/layabox/LayaAir",
+    "tags": []
+  },
+  {
+    "name": "Phaser",
+    "desc": "网页与小游戏最流行的 JS 框架",
+    "url": "https://github.com/photonstorm/phaser",
+    "tags": []
+  },
+  {
+    "name": "PixiJS",
+    "desc": "轻量 2D WebGL 渲染引擎",
+    "url": "https://github.com/pixijs/pixijs",
+    "tags": []
+  },
+  {
+    "name": "Three.js",
+    "desc": "Web 3D 事实标准库（非引擎，需自搭玩法层）",
+    "url": "https://github.com/mrdoob/three.js",
+    "tags": []
+  },
+  {
+    "name": "Babylon.js",
+    "desc": "微软出品的功能完备 Web 3D 引擎",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "tags": []
+  },
+  {
+    "name": "LibGDX",
+    "desc": "Java 跨平台游戏框架",
+    "url": "https://github.com/libgdx/libgdx",
+    "tags": []
+  },
+  {
+    "name": "Solarus",
+    "desc": "塞尔达式 2D 动作 RPG 引擎",
+    "url": "https://github.com/solarus-games/solarus",
+    "tags": []
+  },
+  {
+    "name": "Spring",
+    "desc": "开源 RTS 引擎平台（Zero-K/BAR 基础）",
+    "url": "https://github.com/spring/spring",
+    "tags": []
+  },
+  {
+    "name": "O3DE",
+    "desc": "亚马逊开源 3D 引擎",
+    "url": "https://github.com/o3de/o3de",
+    "tags": []
+  },
+  {
+    "name": "Urho3D",
+    "desc": "轻量 C++ 3D 引擎",
+    "url": "https://github.com/urho3d/Urho3D",
+    "tags": []
+  },
+  {
+    "name": "Panda3D",
+    "desc": "迪士尼开源 3D 引擎",
+    "url": "https://github.com/panda3d/panda3d",
+    "tags": []
+  },
+  {
+    "name": "TIC-80",
+    "desc": "幻想计算机：画、写、作曲都在小盒子里",
+    "url": "https://github.com/nesbox/TIC-80",
+    "tags": []
+  },
+  {
+    "name": "Adventure Game Studio",
+    "desc": "经典点击式冒险游戏引擎",
+    "url": "https://github.com/adventuregamestudio/ags",
+    "tags": []
+  },
+  {
+    "name": "CengBall",
+    "desc": "结合 2D 物理模拟的足球编程挑战游戏。",
+    "url": "https://github.com/eckucukoglu/cengball",
+    "tags": []
+  },
+  {
+    "name": "Thrive",
+    "desc": "从单细胞生物进化至星际文明的上帝模拟游戏，已登陆 Steam 免费平台。",
+    "url": "https://github.com/Revolutionary-Games/Thrive",
+    "tags": []
+  },
+  {
+    "name": "Godot Open RPG",
+    "desc": "GDQuest 官方教程配套的 2D 回合制 RPG 示例项目，包含对话、背包、战斗等完整功能。",
+    "url": "https://github.com/gdquest-demos/godot-open-rpg",
+    "tags": []
+  },
+  {
+    "name": "Mari0",
+    "desc": "融合马里奥与传送门元素的解谜平台跳跃游戏，双门穿墙设计，操作手感堪称教科书级别。",
+    "url": "https://github.com/Stabyourself/mari0",
+    "tags": []
+  },
+  {
+    "name": "Mr. Rescue",
+    "desc": "以消防为主题的第一人称俯视角动作游戏，深入火场执行救援与逃生任务。",
+    "url": "https://github.com/SimonLarsen/mrrescue",
+    "tags": []
+  },
+  {
+    "name": "Tuxemon",
+    "desc": "具备口袋妖怪风格的开源 RPG，涵盖捕捉养成、回合制对战及联机对战功能。",
+    "url": "https://github.com/tuxemon/tuxemon",
+    "tags": []
+  },
+  {
+    "name": "Forge the Kingdom",
+    "desc": "奇幻风格视觉小说——使用 Ren'Py 编写剧情，结合 OpenClaw 实现由 AI 驱动的王国“入驻”电脑。",
+    "url": "https://github.com/Forge-the-Kingdom/forge-the-kingdom",
+    "tags": []
+  },
+  {
+    "name": "Bevy Tetris",
+    "desc": "基于 Bevy ECS 构建的经典俄罗斯方块实现，适合剖析数据驱动型玩法设计。",
+    "url": "https://github.com/nightswatchgames/tetris",
+    "tags": []
+  },
+  {
+    "name": "Typey Birb",
+    "desc": "Bevy Jam 参赛作品——打字版 Flappy Bird，只有拼对单词才能让小鸟扇动翅膀。",
+    "url": "https://github.com/rparrett/typey_birb",
+    "tags": []
+  },
+  {
+    "name": "Phaser 官方示例库",
+    "desc": "由官方持续维护的 Phaser CE 示例集合，上百个小型游戏可直接作为教学范例",
+    "url": "https://github.com/phaserjs/phaser-ce-examples",
+    "tags": []
+  },
+  {
+    "name": "raylib-games",
+    "desc": "raylib 开发者官方维护的游戏合集，包含十余款可运行的小游戏，全部开源",
+    "url": "https://github.com/raysan5/raylib-games",
+    "tags": []
+  },
+  {
+    "name": "TIC-80 游戏合集",
+    "desc": "一个仓库集中收录多款 TIC-80 卡带游戏，复古像素风即开即玩",
+    "url": "https://github.com/TheWatermelon/TIC-80",
+    "tags": []
+  },
+  {
+    "name": "NAIA",
+    "desc": "墨西哥游戏节 Mermelada de Juegos 2026 的参展作品，使用 GB Studio 制作的 Game Boy 冒险类游戏",
+    "url": "https://github.com/Tamal-Rosita/MGWJ2026-NAIA",
+    "tags": []
+  },
+  {
+    "name": "SanAndreasUnity",
+    "desc": "以 Unity 重写《侠盗猎车手：圣安地列斯》引擎，完整还原开放世界架构",
+    "url": "https://github.com/in0finite/SanAndreasUnity",
+    "tags": []
+  },
+  {
+    "name": "三国霸业",
+    "desc": "源自步步高学习机时代的童年经典，基于 LayaAir 在浏览器中复刻——包括练兵、攻城、统一天下等玩法",
+    "url": "https://github.com/cheft/sanguo",
+    "tags": []
+  },
+  {
+    "name": "LayaAir 官方示例库",
+    "desc": "官方仓库内含完整的 2D/3D 示例，涵盖 UI、粒子特效、骨骼动画及小游戏发布流程，开箱即用",
+    "url": "https://github.com/layabox/layaair-demo",
+    "tags": []
+  },
+  {
+    "name": "flixel-demos 官方示例集",
+    "desc": "官方提供的 79 个 demo 全部开源，覆盖平台跳跃、塔防、射击等类型，新手入门效率最高",
+    "url": "https://github.com/HaxeFlixel/flixel-demos",
+    "tags": []
+  },
+  {
+    "name": "Friday Night Funkin'",
+    "desc": "前文已提及 现象级节奏对战游戏《周五夜放克》，凭借 HaxeFlixel 构建，成为模组生态的标杆之作",
+    "url": "https://github.com/ninjamuffin99/Funkin",
+    "tags": []
+  },
+  {
+    "name": "SpelunkyClassicHD",
+    "desc": "Derek Yu 创作的《洞穴探险》GML 项目改良版本——涵盖随机生成的地牢、机关与宝藏，是 roguelike 类型关卡设计的典范之作。",
+    "url": "https://github.com/yancharkin/SpelunkyClassicHD",
+    "tags": []
+  },
+  {
+    "name": "Nuclear Throne 的开源重制版",
+    "desc": "《废土之王》的 GML 源码重构 + Android 平台移植，双摇杆射击机制及存档与武器系统均可深入剖析。",
+    "url": "https://github.com/toarch7/nt-recreated-public",
+    "tags": []
+  },
+  {
+    "name": "Aquaria",
+    "desc": "极具震撼力的水下奇幻题材游戏，曾斩获 2007 年独立游戏节大奖。",
+    "url": "https://github.com/AquariaOSE/Aquaria",
+    "tags": []
+  },
+  {
+    "name": "Descent 3",
+    "desc": "操控战斗机，在具备六自由度移动能力的射击游戏中于地下与地表之间自由穿梭。",
+    "url": "https://github.com/DescentDevelopers/Descent3",
+    "tags": []
+  },
+  {
+    "name": "Doom 3",
+    "desc": "已发布 GPL 协议源码。",
+    "url": "https://github.com/TTimo/doom3.gpl",
+    "tags": []
+  },
+  {
+    "name": "Jedi Academy",
+    "desc": "仅限源码，来自 Raven Software 在 SourceForge 上的镜像资源。",
+    "url": "https://github.com/grayj/Jedi-Academy",
+    "tags": []
+  },
+  {
+    "name": "Jedi Outcast",
+    "desc": "仅限源码，Raven Software 在 SourceForge 上的镜像资料。",
+    "url": "https://github.com/grayj/Jedi-Outcast",
+    "tags": []
+  },
+  {
+    "name": "MaNGOS",
+    "desc": "功能完备的《魔兽世界》服务器端程序。",
+    "url": "https://github.com/mangos/mangos",
+    "tags": []
+  },
+  {
+    "name": "Miner Wars 2081",
+    "desc": "专为《Miner Wars 2081》（设定于 2081 年的六自由度动作生存太空射击模拟游戏）的模组开发者提供的支持。",
+    "url": "https://github.com/KeenSoftwareHouse/Miner-Wars-2081",
+    "tags": []
+  },
+  {
+    "name": "OpenJK",
+    "desc": "由社区维护的《绝地学院》与《绝地求生外传》（Jedi Outcast）开发分支。",
+    "url": "https://github.com/JACoders/OpenJK",
+    "tags": []
+  },
+  {
+    "name": "UFO RUN",
+    "desc": "基于 Nextpeer 构建的实时多人互动游戏。",
+    "url": "https://github.com/Nextpeer/Nextpeer-UFORUN",
+    "tags": []
+  },
+  {
+    "name": "System Shock",
+    "desc": "初代《网络奇兵》（System Shock）游戏源码（PowerMac 版），此处提供更清晰易读的衍生版本。",
+    "url": "https://github.com/NightDiveStudios/shockmac",
+    "tags": []
+  },
+  {
+    "name": "Rogue Legacy",
+    "desc": "《盗贼遗产 1》（Rogue Legacy）的源码实现。",
+    "url": "https://github.com/flibitijibibo/RogueLegacy1",
+    "tags": []
+  },
+  {
+    "name": "Unreal Engine",
+    "desc": "C++编写，支持3A级游戏开发的引擎。虽非完全免费，但可便捷获取完整源代码。https://www.unrealengine.com/",
+    "url": "https://github.com/EpicGames/Signup",
+    "tags": []
+  },
+  {
+    "name": "Akihabara",
+    "desc": "专为在JavaScript中打造像素风、独立风格的8/16位时代游戏而设计的一组库、工具与预设集合。",
+    "url": "https://github.com/Akihabara/akihabara",
+    "tags": []
+  },
+  {
+    "name": "Allegro 5",
+    "desc": "面向2D游戏（含图像、音频等）开发的C++工具集。",
+    "url": "https://github.com/liballeg/allegro5",
+    "tags": []
+  },
+  {
+    "name": "Ammo.js",
+    "desc": "通过Emscripten将Bullet物理引擎移植至JavaScript环境。",
+    "url": "https://github.com/kripken/ammo.js",
+    "tags": []
+  },
+  {
+    "name": "Atomic Engine",
+    "desc": "支持2D与3D渲染，具备标准JavaScript兼容性，GitHub上提供完整的Player与Editor源码，支持Windows与Mac平台编辑器，并可从编辑器直接发布至Windows、Mac、WebGL、Android及iOS。",
+    "url": "https://github.com/AtomicGameEngine/AtomicGameEngine",
+    "tags": []
+  },
+  {
+    "name": "Bgfx",
+    "desc": "跨平台图形渲染库。",
+    "url": "https://github.com/bkaradzic/bgfx",
+    "tags": []
+  },
+  {
+    "name": "Chilli Works",
+    "desc": "专为独立开发者打造的开源、多平台游戏引擎。",
+    "url": "https://github.com/ChilliWorks/ChilliSource",
+    "tags": []
+  },
+  {
+    "name": "Chipmunk Physics",
+    "desc": "以C语言实现的轻量、高效且可移植的2D刚体物理库。",
+    "url": "https://github.com/slembcke/Chipmunk-Physics",
+    "tags": []
+  },
+  {
+    "name": "ChoiceScript",
+    "desc": "用于创建文本驱动、多分支互动小说的编程语言/开发引擎。",
+    "url": "https://github.com/dfabulich/choicescript",
+    "tags": []
+  },
+  {
+    "name": "Cocos2d for Android",
+    "desc": "源自cocos2d-Android-0.82，现已由cocos2d-iphone 0.99.4移植而来。",
+    "url": "https://github.com/ZhouWeikuan/cocos2d",
+    "tags": []
+  },
+  {
+    "name": "Cocos2d for iPhone",
+    "desc": "专为iPod Touch、iPhone、iPad与Mac平台构建2D游戏、演示及其他图形交互应用的框架。基于cocos2d架构，但采用Objective-C而非Python。",
+    "url": "https://github.com/cocos2d/cocos2d-iphone",
+    "tags": []
+  },
+  {
+    "name": "Cocos2d for HTML5",
+    "desc": "面向网页浏览器的Cocos2d版本，使用JavaScript进行开发。",
+    "url": "https://github.com/cocos2d/cocos2d-HTML5",
+    "tags": []
+  },
+  {
+    "name": "Cocos2d-x",
+    "desc": "适用于开发2D游戏、互动电子书、演示等图形应用的跨平台框架。基于cocos2d-iphone，但使用C++而非Objective-C，可在iOS、Android、Windows Phone、macOS、Windows和Linux上运行。",
+    "url": "https://github.com/cocos2d/cocos2d-x",
+    "tags": []
+  },
+  {
+    "name": "Crafty",
+    "desc": "帮助你以结构化方式组织游戏开发的JavaScript库。",
+    "url": "https://github.com/craftyjs/Crafty",
+    "tags": []
+  },
+  {
+    "name": "CutJavaScript",
+    "desc": "轻量级高效的2D HTML5渲染引擎，适用于跨平台游戏开发。",
+    "url": "https://github.com/piqnt/cutjs",
+    "tags": []
+  },
+  {
+    "name": "Dash",
+    "desc": "使用D语言编写的免费开源3D游戏引擎。",
+    "url": "https://github.com/Circular-Studios/Dash",
+    "tags": []
+  },
+  {
+    "name": "Duality",
+    "desc": "2D游戏开发用框架。",
+    "url": "https://github.com/AdamsLair/duality",
+    "tags": []
+  },
+  {
+    "name": "EaselJavaScript",
+    "desc": "简化对Canvas元素操作的库。",
+    "url": "https://github.com/createjs/easeljs",
+    "tags": []
+  },
+  {
+    "name": "EntityJavaScript",
+    "desc": "基于实体-组件架构的HTML5 JavaScript游戏引擎。",
+    "url": "https://github.com/bendangelo/entityjs",
+    "tags": []
+  },
+  {
+    "name": "Evennia MUD/MU* Creation System",
+    "desc": "利用纯Python实现在线多人文字游戏（如MUD、MUSH、MUX、MUCK、MOO等）的库。",
+    "url": "https://github.com/evennia/evennia",
+    "tags": []
+  },
+  {
+    "name": "Flare",
+    "desc": "自由软件驱动的动作角色扮演游戏引擎。",
+    "url": "https://github.com/clintbellanger/flare-engine",
+    "tags": []
+  },
+  {
+    "name": "Flashpunk",
+    "desc": "用于制作2D Flash游戏的自由开源ActionScript 3库。",
+    "url": "https://github.com/Draknek/FlashPunk",
+    "tags": []
+  },
+  {
+    "name": "Flixel",
+    "desc": "完全由ActionScript 3实现的游戏开发工具库。",
+    "url": "https://github.com/AdamAtomic/flixel",
+    "tags": []
+  },
+  {
+    "name": "GameJavaScript",
+    "desc": "GameJs是一个受PyGame启发的JavaScript库，可用于在HTML Canvas上编写2D游戏或其他交互式图形应用。",
+    "url": "https://github.com/gamejs/gamejs",
+    "tags": []
+  },
+  {
+    "name": "GamePlay",
+    "desc": "跨平台 C++ 游戏开发框架/引擎，适用于构建 2D 与 3D 的移动及桌面游戏。",
+    "url": "https://github.com/gameplay3d/GamePlay",
+    "tags": []
+  },
+  {
+    "name": "GenesisEngine",
+    "desc": "支持从地表到太空的程序化生成行星系统探索，是对程序化世界构建、XNA 及设计模式的一次实践尝试。",
+    "url": "https://github.com/SaintGimp/GenesisEngine",
+    "tags": []
+  },
+  {
+    "name": "Gladiator 3D",
+    "desc": "基于 Canvas 技术的 JavaScript 光线投射引擎，专为伪 3D 游戏打造。",
+    "url": "https://github.com/krotik/gladiator_3d",
+    "tags": []
+  },
+  {
+    "name": "Godot",
+    "desc": "功能齐全、采用 MIT 协议的游戏引擎，强调强大的开发工具与可视化工作流程，可轻松导出至 PC、移动端和 Web 平台。其编辑器、语言与 API 设计丰富但上手简单，数小时内即可掌握。",
+    "url": "https://github.com/okamstudio/godot",
+    "tags": []
+  },
+  {
+    "name": "HaxeFlixel",
+    "desc": "由 Haxe 与 OpenFL 支撑的免费且跨平台的 2D 游戏引擎。",
+    "url": "https://github.com/HaxeFlixel/flixel",
+    "tags": []
+  },
+  {
+    "name": "Ikemen GO",
+    "desc": "开源格斗游戏引擎，兼容 MUGEN 资源，使用 Go 语言实现。",
+    "url": "https://github.com/ikemen-engine/Ikemen-GO",
+    "tags": []
+  },
+  {
+    "name": "JiGS",
+    "desc": "基于 PHP 构建的在线 RPG 与交易类游戏开发引擎。",
+    "url": "https://github.com/Techbot/JiGS-PHP-RPG-engine",
+    "tags": []
+  },
+  {
+    "name": "JMonkeyEngine",
+    "desc": "面向前沿技术探索者的 Java 跨平台 3D 游戏引擎。",
+    "url": "https://github.com/jMonkeyEngine/jmonkeyengine",
+    "tags": []
+  },
+  {
+    "name": "Kiwi.js",
+    "desc": "高速、适配移动端与桌面浏览器的 HTML5 游戏框架，借助 CocoonJS 实现 App Store 上架。",
+    "url": "https://github.com/gamelab/kiwi.js",
+    "tags": []
+  },
+  {
+    "name": "LibRocket",
+    "desc": "基于 HTML 与 CSS 标准的 C++ 界面库，针对各类项目中的界面需求提供完整解决方案。",
+    "url": "https://github.com/librocket/librocket",
+    "tags": []
+  },
+  {
+    "name": "LibSDL2pp",
+    "desc": "SDL 2.0 的 C++11 接口封装。",
+    "url": "https://github.com/libSDL2pp/libSDL2pp",
+    "tags": []
+  },
+  {
+    "name": "Matter.js",
+    "desc": "面向网页端的 JavaScript 2D 刚体物理引擎。",
+    "url": "https://github.com/liabru/matter-js",
+    "tags": []
+  },
+  {
+    "name": "MelonJavaScript",
+    "desc": "用于 2D 游戏开发的 HTML5 游戏框架。",
+    "url": "https://github.com/melonjs/melonJS",
+    "tags": []
+  },
+  {
+    "name": "MonoGame",
+    "desc": "XNA 在 Mono 平台的实现，支持 iOS、Android、Linux，正推进对 PS Suite 与 NaCli 的适配。",
+    "url": "https://github.com/mono/MonoGame",
+    "tags": []
+  },
+  {
+    "name": "Oimo.js",
+    "desc": "轻量级的 JavaScript 3D 物理引擎。",
+    "url": "https://github.com/lo-th/Oimo.js",
+    "tags": []
+  },
+  {
+    "name": "OpenRTS",
+    "desc": "基于 Java 7 编写的实时战略类 3D 引擎。",
+    "url": "https://github.com/methusalah/OpenRTS",
+    "tags": []
+  },
+  {
+    "name": "osu-framework",
+    "desc": "以 osu! 为核心设计理念的游戏框架。",
+    "url": "https://github.com/ppy/osu-framework",
+    "tags": []
+  },
+  {
+    "name": "Oxygine",
+    "desc": "面向 iOS、Android、Windows、Linux 与 Mac 的 2D 游戏开发用 C++ 引擎与框架。",
+    "url": "https://github.com/oxygine/oxygine-framework",
+    "tags": []
+  },
+  {
+    "name": "panda.js",
+    "desc": "免费、支持移动与桌面端的 HTML5 游戏引擎，使用 Canvas 与 WebGL 进行渲染。",
+    "url": "https://github.com/ekelokorpi/panda.js",
+    "tags": []
+  },
+  {
+    "name": "PhysicsJavaScript",
+    "desc": "模块化、可扩展且易于使用的 JavaScript 物理引擎。",
+    "url": "https://github.com/wellcaffeinated/PhysicsJS",
+    "tags": []
+  },
+  {
+    "name": "pixi.js",
+    "desc": "超高速的 HTML5 2D 渲染引擎，基于 WebGL，不支持时自动回退至 Canvas。",
+    "url": "https://github.com/GoodBoyDigital/pixi.js",
+    "tags": []
+  },
+  {
+    "name": "Plasma",
+    "desc": "Cyan Worlds 开发的 Plasma 游戏引擎。",
+    "url": "https://github.com/H-uru/Plasma",
+    "tags": []
+  },
+  {
+    "name": "PlayCanvas",
+    "desc": "具备在线工具集的 3D WebGL 游戏引擎。",
+    "url": "https://github.com/playcanvas/engine",
+    "tags": []
+  },
+  {
+    "name": "QICI Engine",
+    "desc": "免费的 JavaScript 游戏引擎库，配套提供网页版全套工具，用于创建 HTML5 游戏。",
+    "url": "https://github.com/qiciengine/qiciengine",
+    "tags": []
+  },
+  {
+    "name": "Quasi-Engine",
+    "desc": "旨在简化 2D 游戏开发的完整工具集，基于 QtQuick 框架。",
+    "url": "https://github.com/INdT/Quasi-Engine",
+    "tags": []
+  },
+  {
+    "name": "Ren’py",
+    "desc": "使用 Python 实现的视觉小说引擎，支持移动端（iOS 测试版）与桌面平台。",
+    "url": "https://github.com/renpy/renpy",
+    "tags": []
+  },
+  {
+    "name": "SFML",
+    "desc": "简洁高效的多媒体处理库。",
+    "url": "https://github.com/LaurentGomila/SFML",
+    "tags": []
+  },
+  {
+    "name": "Solarus",
+    "desc": "使用 C++ 编写的 Action-RPG 游戏引擎。",
+    "url": "https://github.com/christopho/solarus",
+    "tags": []
+  },
+  {
+    "name": "Starling",
+    "desc": "模仿传统 Flash 显示树结构的 ActionScript 3 库，可部署于移动设备（iOS、Android）、桌面系统（Windows、macOS）以及浏览器（通过 Flash 插件）。",
+    "url": "https://github.com/Gamua/Starling-Framework",
+    "tags": []
+  },
+  {
+    "name": "Tesseract",
+    "desc": "利用现代动态渲染技术提升地图绘制体验——可即时观察光照变化带来的反馈，而不仅是静态几何图形。",
+    "url": "https://github.com/lsalzman/tesseract",
+    "tags": []
+  },
+  {
+    "name": "Tiled",
+    "desc": "通用型瓦片地图制作工具，可用于开发任意基于瓦片的游戏关卡，涵盖 RPG、平台类及《打砖块》类复刻作品。",
+    "url": "https://github.com/bjorn/tiled",
+    "tags": []
+  },
+  {
+    "name": "Torque 2D",
+    "desc": "GarageGames 发布的 Torque 2D 的 MIT 许可开源版本。",
+    "url": "https://github.com/TorqueGameEngines/Torque2D",
+    "tags": []
+  },
+  {
+    "name": "Torque 3D",
+    "desc": "GarageGames 推出的 Torque 3D 的 MIT 许可开源版。",
+    "url": "https://github.com/GarageGames/Torque3D",
+    "tags": []
+  },
+  {
+    "name": "Turbulenz Engine",
+    "desc": "支持构建与分发 2D 与 3D 游戏的 HTML5 游戏引擎及配套服务器端 API，提供 JavaScript 与 TypeScript 双语言支持。",
+    "url": "https://github.com/turbulenz/turbulenz_engine",
+    "tags": []
+  },
+  {
+    "name": "Wurfel Engine",
+    "desc": "专为使用方块或体素构建开放世界场景的等距视角游戏设计的引擎。",
+    "url": "https://github.com/BSVogler/WurfelEngineSDK",
+    "tags": []
+  },
+  {
+    "name": "XLE",
+    "desc": "具备图像光照、动态区域光源以及节点式材质编辑功能的渲染系统，结构灵活模块化，易于集成至现有项目。XLE 是一个高度可定制的引擎，适合特定需求深度适配。",
+    "url": "https://github.com/xlgames-inc/XLE",
+    "tags": []
+  },
+  {
+    "name": "Bfxr",
+    "desc": "基于 Sfxr 构建的 Flash + AIR 音效生成工具。",
+    "url": "https://github.com/increpare/bfxr",
+    "tags": []
+  },
+  {
+    "name": "Brood War API",
+    "desc": "用于与实时战略游戏《星际争霸：母巢之战》进行交互的 C++ 框架。",
+    "url": "https://github.com/bwapi/bwapi",
+    "tags": []
+  },
+  {
+    "name": "FlxCollisions",
+    "desc": "专为 flixel v2.0 提供的一组简易 2D 物理与碰撞示例。",
+    "url": "https://github.com/gamebytes/FlxCollisions",
+    "tags": []
+  },
+  {
+    "name": "Gamertag",
+    "desc": "Ruby 实现的插件，用于获取来自多种渠道的 Xbox Live 玩家标签数据。",
+    "url": "https://github.com/barisbalic/gamertag",
+    "tags": []
+  },
+  {
+    "name": "Greenworks",
+    "desc": "一个 Node.js 插件，实现 HTML5 游戏与 Steamworks 的对接。",
+    "url": "https://github.com/greenheartgames/greenworks",
+    "tags": []
+  },
+  {
+    "name": "Halo::Reach::API",
+    "desc": "用于调用《光环：致远星》API 的 Ruby gem。",
+    "url": "https://github.com/agoragames/halo-reach-api",
+    "tags": []
+  },
+  {
+    "name": "IodineGBA",
+    "desc": "完全由 JavaScript 编写、依托 HTML5 运行的 GameBoy Advance 模拟器。",
+    "url": "https://github.com/taisel/IodineGBA",
+    "tags": []
+  },
+  {
+    "name": "Itch",
+    "desc": "基于 TypeScript 构建的 Electron 应用，支持跨平台游戏下载、安装及 itch.io 资源管理。",
+    "url": "https://github.com/itchio/itch",
+    "tags": []
+  },
+  {
+    "name": "JavaScript Breakouts",
+    "desc": "多个基于 JavaScript 的《打砖块》游戏引擎实现集合。",
+    "url": "https://github.com/city41/breakouts",
+    "tags": []
+  },
+  {
+    "name": "Leaderboard(Java)",
+    "desc": "基于 Redis 实现的排行榜系统（Java 版本）。",
+    "url": "https://github.com/agoragames/java-leaderboard",
+    "tags": []
+  },
+  {
+    "name": "Leaderboard(PHP)",
+    "desc": "基于 Redis 实现的排行榜系统（PHP 版本）。",
+    "url": "https://github.com/agoragames/php-leaderboard",
+    "tags": []
+  },
+  {
+    "name": "Leaderboard(Python)",
+    "desc": "基于 Redis 实现的排行榜系统（Python 版本）。",
+    "url": "https://github.com/agoragames/python-leaderboard",
+    "tags": []
+  },
+  {
+    "name": "Leaderboard(Ruby)",
+    "desc": "基于 Redis 实现的排行榜系统（Ruby 版本）。",
+    "url": "https://github.com/agoragames/leaderboard",
+    "tags": []
+  },
+  {
+    "name": "Leaderboard(Scala)",
+    "desc": "基于 Redis 实现的排行榜系统（Scala 版本）。",
+    "url": "https://github.com/agoragames/scala-leaderboard",
+    "tags": []
+  },
+  {
+    "name": "libfreenect",
+    "desc": "可在 Windows、Linux 与 macOS 上运行，支持 Xbox Kinect 设备的驱动与库。",
+    "url": "https://github.com/OpenKinect/libfreenect",
+    "tags": []
+  },
+  {
+    "name": "OpenEmu",
+    "desc": "旨在将游戏模拟器作为原生功能引入 macOS 的项目。",
+    "url": "https://github.com/OpenEmu/OpenEmu",
+    "tags": []
+  },
+  {
+    "name": "Mudlet",
+    "desc": "跨平台、开源且高速的 MUD（纯文本 MMORPG）客户端，支持 Lua 脚本扩展。",
+    "url": "https://github.com/Mudlet/Mudlet",
+    "tags": []
+  },
+  {
+    "name": "Stats.js",
+    "desc": "JavaScript 性能监控工具。",
+    "url": "https://github.com/mrdoob/stats.js",
+    "tags": []
+  },
+  {
+    "name": "Tassadar",
+    "desc": "纯 Ruby 编写的《星际争霸 2》录像文件解析器。",
+    "url": "https://github.com/agoragames/tassadar",
+    "tags": []
+  },
+  {
+    "name": "World of Warcraft API Docs",
+    "desc": "作为《魔兽世界》社区网站组成部分的 RESTful Web 服务接口文档。",
+    "url": "https://github.com/Blizzard/api-wow-docs",
+    "tags": []
+  },
+  {
+    "name": "ZDoom",
+    "desc": "面向全部 Doom 引擎游戏的功能型移植。",
+    "url": "https://github.com/UZDoom/UZDoom",
+    "tags": []
+  },
+  {
+    "name": "FTEQW",
+    "desc": "用于游玩与模组 idTech 游戏的强大引擎。",
+    "url": "https://github.com/fte-team/fteqw",
+    "tags": []
+  },
+  {
+    "name": "Ultima VII: Revisited",
+    "desc": "《创世纪 VII》替代引擎，以 3D 呈现并修复若干问题。",
+    "url": "https://github.com/ViridianGames/U7Revisited",
+    "tags": []
+  },
+  {
+    "name": "Pooltool",
+    "desc": "强调写实物理的台球沙盒。",
+    "url": "https://github.com/ekiefl/pooltool",
+    "tags": []
+  },
+  {
+    "name": "Tomb Engine",
+    "desc": "用于自制《古墓丽影》冒险的开源引擎（Core Design 时代，1–5）。",
+    "url": "https://github.com/TombEngine/TombEngine",
+    "tags": []
+  }
+]

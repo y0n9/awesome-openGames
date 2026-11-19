@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AI Dungeon（初代）",
+    "desc": "GPT-2 驱动的自由文本冒险鼻祖",
+    "url": "https://github.com/nickwalton/AIDungeon",
+    "tags": []
+  },
+  {
+    "name": "OpenGame",
+    "desc": "首个「一句话生成可玩游戏」的开源 Agent 框架",
+    "url": "https://github.com/leigest519/OpenGame",
+    "tags": []
+  },
+  {
+    "name": "Open Dungeon",
+    "desc": "全本地 AI 跑团，断网可玩，MIT",
+    "url": "https://github.com/newideas99/open-dungeon",
+    "tags": []
+  },
+  {
+    "name": "Dungeo_ai",
+    "desc": "基于 Ollama 的本地 AI 跑团，可接 TTS",
+    "url": "https://github.com/Laszlobeer/Dungeo_ai",
+    "tags": []
+  },
+  {
+    "name": "VibeGame",
+    "desc": "自进化多代理 Vibe Coding，prompt 到 2D 游戏",
+    "url": "https://github.com/tettethu/VibeGame",
+    "tags": []
+  },
+  {
+    "name": "Saltline",
+    "desc": "Fable 5.2 一句话干8小时搓出的雨夜码头 FPS，网红样本",
+    "url": "https://fable52.games/play/saltline-fable-5-2-fps",
+    "tags": []
+  },
+  {
+    "name": "Vibe Jet",
+    "desc": "Gemini 2.5 Pro 生成的 3D 多人飞行射击",
+    "url": "https://github.com/cedrickchee/vibe-jet",
+    "tags": []
+  },
+  {
+    "name": "Claude-of-Duty",
+    "desc": "一条 prompt 生成的 Three.js FPS",
+    "url": "https://github.com/mshumer/Claude-of-Duty",
+    "tags": []
+  },
+  {
+    "name": "Legend of Elya",
+    "desc": "世界首个跑在 N64 上的大模型塞尔达风游戏",
+    "url": "https://github.com/Scottcjn/legend-of-elya-n64",
+    "tags": []
+  },
+  {
+    "name": "Chronicles of the Elder Realm",
+    "desc": "由 AI 主导的单人 D&D 文字冒险，纯 JS 编写无依赖，存档可导出为 JSON 与 Markdown 格式。",
+    "url": "https://github.com/newrealmco/elder_realm",
+    "tags": []
+  },
+  {
+    "name": "ai-adventure",
+    "desc": "AI 驱动的文字冒险引擎，兼容多种后端大模型，允许自定义世界观与剧情分支路径。",
+    "url": "https://github.com/CaoRuiming/ai-adventure",
+    "tags": []
+  },
+  {
+    "name": "AI Dungeon Crawler",
+    "desc": "由大模型生成地牢的探索类冒险，随机地图搭配 AI 叙事机制，每局体验均不重复。",
+    "url": "https://github.com/Aryo-Raska/AI-Dungeon-Crawler",
+    "tags": []
+  },
+  {
+    "name": "AI Dungeon Master",
+    "desc": "以大模型作为主持人构建的互动游戏引擎，支持多玩家剧本托管，适用于线上跑团场景。",
+    "url": "https://github.com/vkhanht1/AI-Dungeon-Master-Interactive-LLM-Game-Engine",
+    "tags": []
+  },
+  {
+    "name": "Tower of Time",
+    "desc": "支持时间回溯机制的塔防游戏，为 2025 Beginner's Jam 的参赛作品，全程由 AI 生成，单文件即可运行。",
+    "url": "https://github.com/maciej-trebacz/tower-of-time-game",
+    "tags": []
+  },
+  {
+    "name": "Pirate 3D",
+    "desc": "基于 Three.js 与 Capacitor 构建的 iOS 3D 游戏模板，附带开源 Agent Skills 与 AI 生成工作流。",
+    "url": "https://github.com/chongdashu/threejs-capacitor-ios-game",
+    "tags": []
+  }
+]

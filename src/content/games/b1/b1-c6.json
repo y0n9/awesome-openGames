@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Shattered Pixel Dungeon",
+    "desc": "手机版传统像素地牢最佳分支，随机地图数百道具",
+    "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
+    "tags": []
+  },
+  {
+    "name": "NetHack",
+    "desc": "元祖级 roguelike 地牢探索",
+    "url": "https://github.com/NetHack/NetHack",
+    "tags": []
+  },
+  {
+    "name": "Cataclysm: DDA",
+    "desc": "末日丧尸硬核生存，模拟深度天花板",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "tags": []
+  },
+  {
+    "name": "Dungeon Crawl Stone Soup",
+    "desc": "平衡性最好的传统地牢 roguelike",
+    "url": "https://github.com/crawl/crawl",
+    "tags": []
+  },
+  {
+    "name": "Angband",
+    "desc": "托尔金世界观元祖级地牢探险",
+    "url": "https://github.com/angband/angband",
+    "tags": []
+  },
+  {
+    "name": "Brogue CE",
+    "desc": "以可见光照著称的传统 roguelike",
+    "url": "https://github.com/tmewett/BrogueCE",
+    "tags": []
+  },
+  {
+    "name": "Tales of Maj'Eyal",
+    "desc": "内容量最夸张的 roguelike RPG",
+    "url": "https://github.com/t-engine/t-engine4",
+    "tags": []
+  },
+  {
+    "name": "HyperRogue",
+    "desc": "双曲几何世界 roguelike",
+    "url": "https://github.com/zenorogue/hyperrogue",
+    "tags": []
+  },
+  {
+    "name": "OpenNefia",
+    "desc": "《伊洛纳》可模组化引擎重实现",
+    "url": "https://github.com/OpenNefia/OpenNefia",
+    "tags": []
+  },
+  {
+    "name": "Meritous",
+    "desc": "动作向地牢爬行",
+    "url": "https://github.com/Patashu/Meritous",
+    "tags": []
+  },
+  {
+    "name": "KeeperRL",
+    "desc": "反向扮演地下城领主的经营 roguelike",
+    "url": "https://github.com/miki151/keeperrl",
+    "tags": []
+  }
+]

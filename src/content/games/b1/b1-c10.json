@@ -1,0 +1,314 @@
+[
+  {
+    "name": "2048",
+    "desc": "经典合并数字解谜（克隆源头）",
+    "url": "https://github.com/gabrielecirulli/2048",
+    "tags": []
+  },
+  {
+    "name": "Untrusted",
+    "desc": "元 JavaScript 冒险解谜游戏",
+    "url": "https://github.com/AlexNisnevich/untrusted",
+    "tags": []
+  },
+  {
+    "name": "Astray",
+    "desc": "Three.js+Box2dWeb 的 WebGL 迷宫",
+    "url": "https://github.com/wwwtyro/Astray",
+    "tags": []
+  },
+  {
+    "name": "Portal64",
+    "desc": "给 N64 做的《传送门》demake",
+    "url": "https://github.com/mwpenny/portal64-still-alive",
+    "tags": []
+  },
+  {
+    "name": "BlockOut II",
+    "desc": "3D 版俄罗斯方块（1989 DOS 经典改编）",
+    "url": "https://sourceforge.net/projects/blockout",
+    "tags": []
+  },
+  {
+    "name": "Hextris",
+    "desc": "受俄罗斯方块启发的六边形解谜",
+    "url": "https://github.com/Hextris/hextris",
+    "tags": []
+  },
+  {
+    "name": "Prism / Zop",
+    "desc": "配色消除类 HTML5 小游戏",
+    "url": "https://github.com/Zolmeister/prism",
+    "tags": []
+  },
+  {
+    "name": "Particle Clicker",
+    "desc": "讲授高能物理历史的放置游戏",
+    "url": "https://github.com/particle-clicker/particle-clicker",
+    "tags": []
+  },
+  {
+    "name": "The House",
+    "desc": "怪异房子里找出口的解谜",
+    "url": "https://github.com/arturkot/the-house-game",
+    "tags": []
+  },
+  {
+    "name": "Drunken Viking",
+    "desc": "倒转时间的维京解谜",
+    "url": "https://github.com/cxong/DrunkenViking",
+    "tags": []
+  },
+  {
+    "name": "A Dark Room",
+    "desc": "躲避红色目标并射击，途中顺手收集炸弹。力求存活更久并获得更高分数。",
+    "url": "https://github.com/hughsk/ludum-dare-27",
+    "tags": []
+  },
+  {
+    "name": "Anagramica",
+    "desc": "一款文字类游戏，附带用于变位词（anagram）处理的 API 接口。",
+    "url": "https://github.com/binarymax/anagramica",
+    "tags": []
+  },
+  {
+    "name": "Beatrix",
+    "desc": "音乐节奏游戏，通过排列鼓点来精准捕捉节拍，演奏出正确节奏。",
+    "url": "https://github.com/cxong/Beatrix",
+    "tags": []
+  },
+  {
+    "name": "BitBot",
+    "desc": "基于 HTML/JavaScript 的游戏，玩家控制一个需感知环境、制定计划并采取行动的机器人。",
+    "url": "https://github.com/recardona/BitBot",
+    "tags": []
+  },
+  {
+    "name": "BlicblockJavaScript",
+    "desc": "受《模拟人生4》中 Blicblock 启发的 JavaScript 游戏，通过匹配四格骨牌消除棋盘。",
+    "url": "https://github.com/cheshire137/blicblock-js",
+    "tags": []
+  },
+  {
+    "name": "Blockrain.js",
+    "desc": "将这款经典游戏嵌入你的网页即可直接游玩，操作极为简便。",
+    "url": "https://github.com/Aerolab/blockrain.js",
+    "tags": []
+  },
+  {
+    "name": "Branching Out",
+    "desc": "一款关于“离家”的极简风格游戏。",
+    "url": "https://github.com/thehen/game-off-2012",
+    "tags": []
+  },
+  {
+    "name": "Clone Man",
+    "desc": "简洁画面的复古解谜与记忆类游戏。",
+    "url": "https://github.com/adhicl/game-off-2012",
+    "tags": []
+  },
+  {
+    "name": "Couch 2048",
+    "desc": "基于物理机制的解谜游戏，与最初的《2048》存在松散联系。",
+    "url": "https://github.com/mvasilkov/glitch2016",
+    "tags": []
+  },
+  {
+    "name": "cube-composer",
+    "desc": "受到函数式编程理念启发的解谜游戏。",
+    "url": "https://github.com/sharkdp/cube-composer",
+    "tags": []
+  },
+  {
+    "name": "Ending",
+    "desc": "具备 Roguelike 元素的解谜类游戏。",
+    "url": "https://github.com/st33d/Ending",
+    "tags": []
+  },
+  {
+    "name": "Follow me! A Simon Clone",
+    "desc": "使用 Phaser 引擎开发的知名游戏完整注释版（基于 JavaScript）。",
+    "url": "https://github.com/gamedolphin/follow_me_JavaScript_simon_clone",
+    "tags": []
+  },
+  {
+    "name": "For King",
+    "desc": "解谜平台类游戏，讲述一位国王寻找失落王冠的旅程。",
+    "url": "https://github.com/AD1337/ForKingGame",
+    "tags": []
+  },
+  {
+    "name": "Genetic Drift",
+    "desc": "Victor 是一名焦躁的清洁工，必须应对一群同样烦躁的克隆体，以及基因复制带来的连锁问题。他能否成功回家，喂养自己忠实的宠物伙伴？",
+    "url": "https://github.com/DancingBanana/genetic-drift",
+    "tags": []
+  },
+  {
+    "name": "Hex 2048",
+    "desc": "基于六边形网格结构的《2048》克隆游戏。",
+    "url": "https://github.com/jeffhou/hex-2048",
+    "tags": []
+  },
+  {
+    "name": "Hexahedral",
+    "desc": "以最少的操作次数完成所有方块的倾倒。",
+    "url": "https://github.com/mminer/hexahedral",
+    "tags": []
+  },
+  {
+    "name": "Infectors",
+    "desc": "基于 Phaser 引擎打造的推箱子风格解谜游戏。",
+    "url": "https://github.com/satanas/infectors",
+    "tags": []
+  },
+  {
+    "name": "Lost! Beneath the Surface",
+    "desc": "你是一只在幽暗地下迷宫中徘徊的萤火虫，必须穿越由恐怖存在布下的重重迷阵，寻得生路。",
+    "url": "https://github.com/gamedolphin/Lost-Beneath-The-Surface",
+    "tags": []
+  },
+  {
+    "name": "Monkey Rally",
+    "desc": "为 Ludum Dare&nbsp; #28 &nbsp;游戏创作马拉松开发的 JavaScript 游戏。",
+    "url": "https://github.com/antila/ludum-dare-28",
+    "tags": []
+  },
+  {
+    "name": "Orbium",
+    "desc": "对 90 年代经典游戏《Logical》的当代重制版。",
+    "url": "https://github.com/bni/orbium",
+    "tags": []
+  },
+  {
+    "name": "Parity",
+    "desc": "一款聚焦数字逻辑的解谜游戏。",
+    "url": "https://github.com/abejfehr/parity",
+    "tags": []
+  },
+  {
+    "name": "Pond",
+    "desc": "《The Pound》是一款主打放松与探索自然美景的沉浸式游戏。",
+    "url": "https://github.com/Zolmeister/pond",
+    "tags": []
+  },
+  {
+    "name": "Pop Pop Win",
+    "desc": "采用 Dart 语言实现的扫雷类游戏。",
+    "url": "https://github.com/dart-lang/pop-pop-win",
+    "tags": []
+  },
+  {
+    "name": "Push and Fork",
+    "desc": "一款解谜游戏，玩家手持餐叉推动方块，并可回溯至过去状态。",
+    "url": "https://github.com/Octocarina/game-off-2012",
+    "tags": []
+  },
+  {
+    "name": "Shape Experiment",
+    "desc": "考验形状辨识与反应速度的游戏。",
+    "url": "https://github.com/binarymax/shape",
+    "tags": []
+  },
+  {
+    "name": "Sliding Puzzle",
+    "desc": "滑动拼图类游戏。",
+    "url": "https://github.com/gamedolphin/sliding_puzzle",
+    "tags": []
+  },
+  {
+    "name": "Sudoku JavaScript",
+    "desc": "界面简洁、专为移动设备优化的数独解谜游戏。",
+    "url": "https://github.com/baruchel/sudoku-js",
+    "tags": []
+  },
+  {
+    "name": "Swap",
+    "desc": "经典瓦片解谜玩法的创新演绎：通过切换操控角色的形态来达成目标。",
+    "url": "https://github.com/nmoroze/swap",
+    "tags": []
+  },
+  {
+    "name": "TransCube",
+    "desc": "2D 解谜平台类游戏，核心机制是化身具备特殊能力的不同“方块”，利用这些变化抵达终点。",
+    "url": "https://github.com/jeroenverfallie/ggo13-transcube",
+    "tags": []
+  },
+  {
+    "name": "Matching Pairs",
+    "desc": "基于 Phaser 框架使用 HTML5 构建，包含原创视觉素材与动态生成音乐。",
+    "url": "https://github.com/gamedolphin/matching-pairs",
+    "tags": []
+  },
+  {
+    "name": "Zoko",
+    "desc": "《推箱子》的三维版本。",
+    "url": "https://github.com/lulea/game-off-2012",
+    "tags": []
+  },
+  {
+    "name": "Zop",
+    "desc": "将相同颜色的节点相连。",
+    "url": "https://github.com/Zolmeister/zop",
+    "tags": []
+  },
+  {
+    "name": "2048-cli",
+    "desc": "《2048》的命令行版本，可在Linux终端环境中运行。",
+    "url": "https://github.com/Tiehuis/2048-cli",
+    "tags": []
+  },
+  {
+    "name": "2048-in-terminal",
+    "desc": "实现得相当出色的《2048》命令行版本。",
+    "url": "https://github.com/alewmoose/2048-in-terminal",
+    "tags": []
+  },
+  {
+    "name": "Castles of Dr. Creep",
+    "desc": "《The Castles of Dr. Creep》（Creep博士的城堡）。",
+    "url": "https://github.com/segrax/DrCreep",
+    "tags": []
+  },
+  {
+    "name": "Dominion",
+    "desc": "用C #语言实现的 《Dominion》（一款桌游/卡牌类游戏）。",
+    "url": "https://github.com/paulbatum/Dominion",
+    "tags": []
+  },
+  {
+    "name": "EbbeFlut",
+    "desc": "一款年代久远、实现方式粗糙但实际体验不错的桌游。",
+    "url": "https://github.com/karussell/ebbeflut",
+    "tags": []
+  },
+  {
+    "name": "IRMINGARD",
+    "desc": "由Ruby编写的耐心（接龙）类纸牌游戏。",
+    "url": "https://github.com/gamebytes/irmingard-backbone",
+    "tags": []
+  },
+  {
+    "name": "Minilens",
+    "desc": "可爱的解谜平台游戏，主角是后末日地球上的一台清洁机器人。",
+    "url": "https://github.com/KOBUGE-Games/minilens",
+    "tags": []
+  },
+  {
+    "name": "PuzzleDash",
+    "desc": "匹配三连类型的益智解谜游戏。",
+    "url": "https://github.com/zeDoctor/PuzzleDash",
+    "tags": []
+  },
+  {
+    "name": "Tictactoe",
+    "desc": "具备图形界面的井字棋人工智能，确保不输。",
+    "url": "https://github.com/cout-hello-world/tictactoe",
+    "tags": []
+  },
+  {
+    "name": "Wizznic",
+    "desc": "最出色的解谜类游戏之一。",
+    "url": "https://github.com/DusteDdk/Wizznic",
+    "tags": []
+  }
+]

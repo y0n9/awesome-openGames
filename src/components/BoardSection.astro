@@ -1,0 +1,44 @@
+---
+/**
+ * BoardSection —— 板块区块（构建时静态生成）
+ * board 为 dataset.js 装配后的板块定义（含 categories 列表），条目按分类分组传入。
+ * 板块色经内联 --board-color 下发，卡片左侧色条由 CSS 继承该变量（与 v1 一致）。
+ */
+import GameCard from './GameCard.astro';
+import { icon } from '../js/shared.js';
+
+interface Props {
+  board: any; // dataset.js 板块定义 { name, slug, order, color, icon, categories }
+  itemsByCategory: Map<string, any[]>;
+}
+
+const { board, itemsByCategory } = Astro.props;
+const boardItems = board.categories.reduce(
+  (sum, c) => sum + (itemsByCategory.get(c.slug)?.length ?? 0),
+  0
+);
+---
+
+<section class="og-board" id={board.slug} data-board={board.slug} style={`--board-color: var(--og-board-${board.slug})`}>
+  <h2 class="og-board-title">
+    <span class="og-board-icon" set:html={icon(board.icon)} />
+    <span>{board.name}</span>
+    <span class="og-badge og-badge-lg">{boardItems}</span>
+  </h2>
+
+  {
+    board.categories.map((cat) => (
+      <div class="og-cat" id={cat.slug}>
+        <h3 class="og-cat-title">
+          {cat.name}
+          <span class="og-badge">{itemsByCategory.get(cat.slug)?.length ?? 0}</span>
+        </h3>
+        <div class="og-grid">
+          {(itemsByCategory.get(cat.slug) ?? []).map((item) => (
+            <GameCard item={item} />
+          ))}
+        </div>
+      </div>
+    ))
+  }
+</section>

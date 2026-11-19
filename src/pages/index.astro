@@ -1,0 +1,34 @@
+---
+/**
+ * 首页 —— 单页长滚动（v2.1）
+ * 构建时直出全部板块/分类/条目的静态 HTML；数据经 dataset.js 装配与引用校验
+ *（boards.json 定义 + games 集合多文件条目数组），脏数据直接让构建失败。
+ */
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BoardSection from '../components/BoardSection.astro';
+import { icon } from '../js/shared.js';
+import { buildDataset, groupItemsByCategory } from '../js/dataset.js';
+
+const { boards, items } = buildDataset(await getCollection('games'));
+const itemsByCategory = groupItemsByCategory(items);
+---
+
+<BaseLayout>
+  <div class="og-hero" id="top">
+    <h1>开源游戏与开发工具合集</h1>
+    <p>{items.length} 个精选条目 · {boards.length} 大板块 · 纯前端即时检索</p>
+  </div>
+
+  {
+    boards.map((board) => (
+      <BoardSection board={board} itemsByCategory={itemsByCategory} />
+    ))
+  }
+
+  <div id="og-fav-empty" class="og-fav-empty" hidden>
+    <span set:html={icon('star')} />
+    <p>还没有收藏任何条目</p>
+    <p class="og-fav-empty-tip">点击卡片右下角的星标即可收藏，收藏内容仅保存在本机浏览器中</p>
+  </div>
+</BaseLayout>

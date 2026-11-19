@@ -1,0 +1,32 @@
+[
+  {
+    "name": "WeApp_Demos",
+    "desc": "5280，120+ 小程序/小游戏案例库，品类最高星中文仓库",
+    "url": "https://github.com/Data-Camp/WeApp_Demos",
+    "tags": []
+  },
+  {
+    "name": "games(channingbreeze)",
+    "desc": "2.3k Phaser 小游戏集合，以 H5 为主",
+    "url": "https://github.com/channingbreeze/games",
+    "tags": []
+  },
+  {
+    "name": "moyu（摸鱼小游戏）",
+    "desc": "号称 2000 个摸鱼小游戏/工具源码，带在线演示",
+    "url": "https://github.com/wanghao221/moyu",
+    "tags": []
+  },
+  {
+    "name": "awesome-cocos-creator",
+    "desc": "按游戏/教程/组件分类的 Cocos 开源索引",
+    "url": "https://github.com/starchoou/awesome-cocos-creator",
+    "tags": []
+  },
+  {
+    "name": "cocos-example-projects",
+    "desc": "Cocos 官方示例工程集",
+    "url": "https://github.com/cocos/cocos-example-projects",
+    "tags": []
+  }
+]

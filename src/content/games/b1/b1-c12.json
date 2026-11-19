@@ -1,0 +1,746 @@
+[
+  {
+    "name": "C-Dogs SDL",
+    "desc": "经典 DOS 上帝视角弹幕射击移植",
+    "url": "https://github.com/cxong/cdogs-sdl",
+    "tags": []
+  },
+  {
+    "name": "OpenLieroX",
+    "desc": "《Liero》克隆，实时版百战天虫",
+    "url": "https://github.com/albertz/openlierox",
+    "tags": []
+  },
+  {
+    "name": "Hedgewars",
+    "desc": "回合制炮术对战（百战天虫）",
+    "url": "https://github.com/hedgewars/hw",
+    "tags": []
+  },
+  {
+    "name": "OpenTyrian",
+    "desc": "经典打飞机《Tyrian》开源移植",
+    "url": "https://github.com/opentyrian/opentyrian",
+    "tags": []
+  },
+  {
+    "name": "Taisei Project",
+    "desc": "开源东方 Project 同人弹幕射击",
+    "url": "https://github.com/taisei-project/taisei",
+    "tags": []
+  },
+  {
+    "name": "Rocks'n'Diamonds",
+    "desc": "《钻石矿工》式经典解谜",
+    "url": "https://github.com/artsoft/rocksndiamonds",
+    "tags": []
+  },
+  {
+    "name": "X-Moto",
+    "desc": "2D 摩托车特技",
+    "url": "https://github.com/xmoto-team/xmoto",
+    "tags": []
+  },
+  {
+    "name": "Frozen Bubble",
+    "desc": "开源泡泡龙",
+    "url": "https://github.com/kthakore/frozen-bubble",
+    "tags": []
+  },
+  {
+    "name": "Neverball",
+    "desc": "3D 滚球平衡挑战",
+    "url": "https://github.com/Neverball/neverball",
+    "tags": []
+  },
+  {
+    "name": "Blobby Volley 2",
+    "desc": "双人对战排球",
+    "url": "https://github.com/BlobbyVolley/BlobbyVolley2",
+    "tags": []
+  },
+  {
+    "name": "Pingus",
+    "desc": "企鹅版《旅鼠总动员》",
+    "url": "https://github.com/Pingus/pingus",
+    "tags": []
+  },
+  {
+    "name": "Alge’s Escapade",
+    "desc": "控制 Alge 穿越关卡，抵达逃生管道成功逃脱。",
+    "url": "https://github.com/Dave-and-Mike/game-off-2012",
+    "tags": []
+  },
+  {
+    "name": "Alien Invasion",
+    "desc": "阻止外星人抵达屏幕底部，用飞船将其消灭。",
+    "url": "https://github.com/cykod/AlienInvasion",
+    "tags": []
+  },
+  {
+    "name": "Arashi",
+    "desc": "复刻自街机游戏《Tempest》，目标是尽可能延长存活时间并取得高分。",
+    "url": "https://github.com/stephank/arashi-js",
+    "tags": []
+  },
+  {
+    "name": "Asteroids",
+    "desc": "纯 JavaScript 实现的《小行星》游戏，操控可左右旋转的三角形飞船击毁小行星与飞碟。",
+    "url": "https://github.com/dmcinnes/HTML5-Asteroids",
+    "tags": []
+  },
+  {
+    "name": "Avabranch",
+    "desc": "让 Ava 成功避开不断移动的方块。",
+    "url": "https://github.com/Zolmeister/avabranch",
+    "tags": []
+  },
+  {
+    "name": "Ball And Wall",
+    "desc": "利用从飞船弹出的挡板 Vaus 击碎上方的方块。",
+    "url": "https://github.com/budnix/ball-and-wall",
+    "tags": []
+  },
+  {
+    "name": "Breakout",
+    "desc": "基于 HTML5 的多人游戏，通过发射一颗球来击碎方块。",
+    "url": "https://github.com/Couchfriends/breakout",
+    "tags": []
+  },
+  {
+    "name": "Captain Rogers",
+    "desc": "使用 ImpactJS 构建的 HTML5 手机游戏。",
+    "url": "https://github.com/EnclaveGames/Captain-Rogers",
+    "tags": []
+  },
+  {
+    "name": "Ceros Snake",
+    "desc": "经典 70 年代《贪吃蛇》游戏的现代化重制版本。",
+    "url": "https://github.com/mjhasbach/ceros-snake",
+    "tags": []
+  },
+  {
+    "name": "CHANG€",
+    "desc": "紧张刺激的游戏，呈现超市收银员日常工作的极端压力情境。",
+    "url": "https://github.com/RothschildGames/change",
+    "tags": []
+  },
+  {
+    "name": "Chromacore",
+    "desc": "2D 音乐驱动的平台跳跃游戏，背景设定于黑白交织的暗色世界，随着关卡推进，画面逐渐绽放出明亮欢快的色彩。",
+    "url": "https://github.com/Murkantilism/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "Jolly Jumper",
+    "desc": "受《涂鸦跳跃》启发的无尽跳跃类游戏，持续挑战玩家的反应与耐力。",
+    "url": "https://github.com/shohan4556/jolly-jumper",
+    "tags": []
+  },
+  {
+    "name": "Clumsy Bird",
+    "desc": "基于 MelonJS 引擎的《Flappy Bird》复刻版本，采用 JavaScript 实现。",
+    "url": "https://github.com/ellisonleao/clumsy-bird",
+    "tags": []
+  },
+  {
+    "name": "Coffee Snake",
+    "desc": "以 CoffeeScript 编写的 HTML5 贪吃蛇游戏，实现经典玩法。",
+    "url": "https://github.com/dommmel/coffee-snake",
+    "tags": []
+  },
+  {
+    "name": "Coil",
+    "desc": "基于 HTML5 Canvas 构建的游戏，通过拖尾追踪并缠绕敌人来完成击败。",
+    "url": "https://github.com/leereilly/Coil",
+    "tags": []
+  },
+  {
+    "name": "Color Quest",
+    "desc": "无限跑酷题材游戏，讲述一个黑白像素角色渴望蜕变成为彩色像素的心路历程。",
+    "url": "https://github.com/redbluegames/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "Core Commiter",
+    "desc": "挑选一个开源项目，通过将代码提交至正确分支的方式参与贡献。",
+    "url": "https://github.com/vladikoff/game-off-2012",
+    "tags": []
+  },
+  {
+    "name": "Crappy Bird",
+    "desc": "基于 JavaScript 与 Canvas2D API 的《Flappy Bird》仿制作品。",
+    "url": "https://github.com/varunpant/CrappyBird",
+    "tags": []
+  },
+  {
+    "name": "Custom Tetris",
+    "desc": "以你偏好的方式体验经典的俄罗斯方块游戏。",
+    "url": "https://github.com/ondras/custom-tetris",
+    "tags": []
+  },
+  {
+    "name": "D3shooter",
+    "desc": "HTML5 风格的《小行星》游戏，作为 d3 库功能演示的一部分。",
+    "url": "https://github.com/nsmirn0v/d3shooter",
+    "tags": []
+  },
+  {
+    "name": "Digger",
+    "desc": "玩家身处地下迷宫，可横向与纵向挖掘隧道以穿越空间。",
+    "url": "https://github.com/lutzroeder/digger",
+    "tags": []
+  },
+  {
+    "name": "Drakonas",
+    "desc": "基于 Three.js 库开发的经典弹幕射击游戏。",
+    "url": "https://github.com/Casmo/Drakonas",
+    "tags": []
+  },
+  {
+    "name": "Drill Bunny",
+    "desc": "钻地类小游戏，控制兔子在地下挖掘宝藏。",
+    "url": "https://github.com/DreamShowAdventures/LudumDare29",
+    "tags": []
+  },
+  {
+    "name": "DuckHunt JavaScript",
+    "desc": "将《打鸭子》移植至 JavaScript 与 HTML5 平台，并配备关卡编辑功能。",
+    "url": "https://github.com/MattSurabian/DuckHunt-JS",
+    "tags": []
+  },
+  {
+    "name": "Emberwind",
+    "desc": "独立平台游戏《Emberwind》的奇幻风格重制版。",
+    "url": "https://github.com/operasoftware/Emberwind",
+    "tags": []
+  },
+  {
+    "name": "ExecutiveMan",
+    "desc": "用 JavaScript 编写的 NES 游戏《MegaMan》复刻版本。",
+    "url": "https://github.com/CamHenlin/ExecutiveMan",
+    "tags": []
+  },
+  {
+    "name": "Fluid Table Tennis",
+    "desc": "实时渲染乒乓球游戏，与全彩流体模拟系统以 60 FPS 进行交互。",
+    "url": "https://github.com/anirudhjoshi/fluid_table_tennis",
+    "tags": []
+  },
+  {
+    "name": "Heal 'em All",
+    "desc": "探索废弃墓地，尽可能治愈僵尸并寻找出口。但需警惕自己被感染。",
+    "url": "https://github.com/krzysu/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "HotFix",
+    "desc": "协助 Hotfix 收集 star 拥护者，避开敌人；通过收集 commit 升级角色并解锁新功能。",
+    "url": "https://github.com/sdrdis/hotfix",
+    "tags": []
+  },
+  {
+    "name": "Hyperspace Garbage Collector",
+    "desc": "引导 N4n 穿越充满危险的垃圾堆洞穴，抵达主系统核心，恢复「垃圾」秩序。",
+    "url": "https://github.com/razh/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "I Spy A Ghost",
+    "desc": "基于 HTML5/Phaser 与 WebRTC 的实验性点对点多人游戏。",
+    "url": "https://github.com/OmarShehata/I-Spy-A-Ghost",
+    "tags": []
+  },
+  {
+    "name": "Jekyll &amp; Hyde Collide",
+    "desc": "简易的 Unity 2D 游戏，灵感源自《化身博士》故事，围绕「转变」主题展开。",
+    "url": "https://github.com/awesome-interactive/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "JumpSuit",
+    "desc": "穿戴炫酷装备，从一颗星球跃向另一颗，征服它们。",
+    "url": "https://github.com/KordonBleu/jumpsuit",
+    "tags": []
+  },
+  {
+    "name": "Mario 5 HTML",
+    "desc": "HTML5 版本的无限马里奥，使用 Canvas 与 Audio 元素构建。",
+    "url": "https://github.com/robertkleffner/marioHTML5",
+    "tags": []
+  },
+  {
+    "name": "Mega Girl",
+    "desc": "顶级豪华安全软件，有效抵御恶意程序入侵。",
+    "url": "https://github.com/ddionisio/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "Masonry JavaScript Tetris Clone",
+    "desc": "基于 HTML5/JavaScript/Phaser 开发的俄罗斯方块仿制版本。",
+    "url": "https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone",
+    "tags": []
+  },
+  {
+    "name": "Monster Wants Candy",
+    "desc": "使用 Phaser 2.0.7 创建的轻量级 HTML5 游戏。",
+    "url": "https://github.com/EnclaveGames/Monster-Wants-Candy-demo",
+    "tags": []
+  },
+  {
+    "name": "Octocat Jump",
+    "desc": "操控持续跳跃的 Octocat，收集星星以提升分数。",
+    "url": "https://github.com/ogoshen/game-off-2012",
+    "tags": []
+  },
+  {
+    "name": "Onslaught Arena",
+    "desc": "快节奏街机射击游戏，对抗成群的中世纪经典怪物。",
+    "url": "https://github.com/lostdecade/onslaught_arena",
+    "tags": []
+  },
+  {
+    "name": "Pappu Pakia",
+    "desc": "上瘾型游戏，操控小 Pappu 绕过障碍，收集金币、星星与浆果，同时躲避名为 Pakias 的敌人。",
+    "url": "https://github.com/udacity/pappu-pakia",
+    "tags": []
+  },
+  {
+    "name": "Phaser Snake",
+    "desc": "基于 Phaser 引擎开发的 JavaScript 贪吃蛇游戏。",
+    "url": "https://github.com/gamedolphin/JavaScript_snake",
+    "tags": []
+  },
+  {
+    "name": "PixelPlatformer",
+    "desc": "简单平台跳跃游戏，用于展示 Entity 游戏引擎的功能。",
+    "url": "https://github.com/bendangelo/PixelPlatformer",
+    "tags": []
+  },
+  {
+    "name": "PolyBranch",
+    "desc": "极简风格的 3D 游戏，初期躲避树枝看似轻松，但当速度逼近极限时，考验你的持久力。",
+    "url": "https://github.com/gbatha/PolyBranch",
+    "tags": []
+  },
+  {
+    "name": "Protocol 390",
+    "desc": "要在人民公园生存，就必须为预言者提供「零钱」（即变化）。",
+    "url": "https://github.com/josegallegos07/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "Raging Gardens",
+    "desc": "JavaScript/HTML5 网页游戏，一只饥饿的（忍者）兔子频繁放屁。",
+    "url": "https://github.com/petarov/game-off-2012",
+    "tags": []
+  },
+  {
+    "name": "Release Cycles",
+    "desc": "抽象竞速类游戏，玩家需在产品生命周期内与时间及系统赛跑，尽可能延长前进距离。",
+    "url": "https://github.com/RothschildGames/release-cycles",
+    "tags": []
+  },
+  {
+    "name": "Save The Forest",
+    "desc": "一款纯基于 Canvas 的 HTML5 游戏，玩家借助神秘水箱扑灭树木上的火焰，以拯救正在燃烧的森林。",
+    "url": "https://github.com/softvar/save-the-forest",
+    "tags": []
+  },
+  {
+    "name": "SKALP",
+    "desc": "60 秒限时交易大厅反应挑战，选择做多或做空，依据图表走势，在反转前完成平仓操作——避免被强制平仓。",
+    "url": "https://github.com/amudotcom-byte/skalp",
+    "tags": []
+  },
+  {
+    "name": "Ski Free",
+    "desc": "控制山地滑行者穿越障碍，根据模式要求进行计时竞速或完成特技表演以获取分数。",
+    "url": "https://github.com/basicallydan/skifree.js",
+    "tags": []
+  },
+  {
+    "name": "Snake",
+    "desc": "基于 Canvas 与 JavaScript 实现的简易贪吃蛇复刻版本。",
+    "url": "https://github.com/jrgdiz/snake",
+    "tags": []
+  },
+  {
+    "name": "Snake_new",
+    "desc": "网页版经典诺基亚风格贪吃蛇游戏。",
+    "url": "https://github.com/RabiRoshan/snake_game",
+    "tags": []
+  },
+  {
+    "name": "Space-Shooter",
+    "desc": "由 HTML5 构建的复古弹幕射击游戏，支持多人联机对战。",
+    "url": "https://github.com/Couchfriends/Space-Shooter",
+    "tags": []
+  },
+  {
+    "name": "Spashal",
+    "desc": "太空中充满威胁，危险遍布每一个角落。",
+    "url": "https://github.com/MrRar/spashal",
+    "tags": []
+  },
+  {
+    "name": "Square Off!",
+    "desc": "多人 1v1 气垫曲棍球玩法游戏，通过放置方块来反弹小球实现进攻与防守。",
+    "url": "https://github.com/ScriptaGames/SquareOff",
+    "tags": []
+  },
+  {
+    "name": "Space Crusade",
+    "desc": "采用 Phaser 框架开发的 HTML5 游戏。",
+    "url": "https://github.com/Loopeex/space-crusade",
+    "tags": []
+  },
+  {
+    "name": "Super Mario Bros",
+    "desc": "由 Backbone 游戏引擎构建的一个关卡内容。",
+    "url": "https://github.com/martindrapeau/backbone-game-engine",
+    "tags": []
+  },
+  {
+    "name": "Survivor",
+    "desc": "可游玩的重制版本：1982 年雅达利/Commodore 64 风格的太空「弹幕射击」街机游戏，基于 HTML+CSS+JavaScript 实现，内置关卡编辑器与设计工具。",
+    "url": "https://github.com/scottschiller/SURVIVOR",
+    "tags": []
+  },
+  {
+    "name": "WPilot",
+    "desc": "基于浏览器的 XPilot 经典游戏重制版，使用 Node.js 与 HTML5 技术搭建。",
+    "url": "https://github.com/jfd/wpilot",
+    "tags": []
+  },
+  {
+    "name": "Zedinvaders",
+    "desc": "该游戏源自原创漫画《ZED》，灵感来自名为「Game Over」的「第零话」。",
+    "url": "https://github.com/salvatorecapolupo/zedinvaders",
+    "tags": []
+  },
+  {
+    "name": "111 one-button games",
+    "desc": "单按钮游戏，特色在于仅用一个按键完成多种操作。",
+    "url": "https://github.com/abagames/111-one-button-games-in-2021",
+    "tags": []
+  },
+  {
+    "name": "Beast",
+    "desc": "致敬 1984 年 ASCII 游戏《BEAST》（由 Dan Baker 等人用 node 编写）。你需要将小 ASCII 怪物夹在可移动方块之间压扁，但务必提防被它们反噬。",
+    "url": "https://github.com/dominikwilkowski/beast.js",
+    "tags": []
+  },
+  {
+    "name": "Binb",
+    "desc": "具有竞争性的多人实时“听歌猜曲”游戏。",
+    "url": "https://github.com/lpinca/binb",
+    "tags": []
+  },
+  {
+    "name": "CyberPong",
+    "desc": "非传统的乒乓球玩法，支持通过 Makey Makey 套件进行改造。",
+    "url": "https://github.com/dreamtocode/Cyber-Pong",
+    "tags": []
+  },
+  {
+    "name": "Dental Defender: Saga of the Candy Horde",
+    "desc": "为&nbsp; #CandyJam &nbsp;开发的 HTML5 射击与塔防结合类游戏。",
+    "url": "https://github.com/cshepp/candyjam",
+    "tags": []
+  },
+  {
+    "name": "Descensus 2",
+    "desc": "一款基于 TypeScript 的 2D 物理模拟游戏。",
+    "url": "https://github.com/TomWHall/Descensus2",
+    "tags": []
+  },
+  {
+    "name": "Hauberk",
+    "desc": "以 ASCII 艺术风格为基础，通过程序化生成构建的地牢探索游戏。采用 Dart 语言开发，支持在浏览器中直接运行。",
+    "url": "https://github.com/munificent/hauberk",
+    "tags": []
+  },
+  {
+    "name": "HeartLine",
+    "desc": "在 2013 年全球游戏制作挑战赛中，于 48 小时内完成开发的参赛作品。",
+    "url": "https://github.com/gamebytes/heartline.github.com",
+    "tags": []
+  },
+  {
+    "name": "Project: Starfighter",
+    "desc": "一款以太空为背景的弹幕射击类游戏。",
+    "url": "https://github.com/pr-starfighter/starfighter",
+    "tags": []
+  },
+  {
+    "name": "Psiral",
+    "desc": "使用 JavaScript/HTML5 开发的网页游戏，曾荣获 GitHub Game Off 2 大赛奖项。",
+    "url": "https://github.com/petarov/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "Squirts",
+    "desc": "由 JavaScript 实现的知名独立游戏项目。",
+    "url": "https://github.com/KrofDrakula/squirts",
+    "tags": []
+  },
+  {
+    "name": "The Killer",
+    "desc": "基于 Flash/ActionScript3 技术打造的“非传统游戏”作品。",
+    "url": "https://github.com/JordanMagnuson/The-Killer",
+    "tags": []
+  },
+  {
+    "name": "Turkey Cooking Simulator",
+    "desc": "你被邀请担任感恩节大餐的核心角色——火鸡。通过精湛厨艺讨好伴侣，并赢得未来岳父母的认可！用美味征服全家。",
+    "url": "https://github.com/fernjager/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "Double Damnation",
+    "desc": "纯粹合作向的银河恶魔城类型游戏，操作手感参考《任天堂明星大乱斗 Melee》的流畅机制。",
+    "url": "https://github.com/TheYellowArchitect/doubledamnation",
+    "tags": []
+  },
+  {
+    "name": "Chaos Projectile",
+    "desc": "融合 RPG 要素的 2D 横向闯关动作游戏。",
+    "url": "https://github.com/WinterLicht/Chaos-Projectile",
+    "tags": []
+  },
+  {
+    "name": "Clonepoint",
+    "desc": "《Gunpoint》的自由式克隆作品，以黑客技术与近身搏斗为核心玩法。",
+    "url": "https://github.com/rohit-n/Clonepoint",
+    "tags": []
+  },
+  {
+    "name": "DynaDungeons",
+    "desc": "基于强大开源 Godot 引擎开发的《炸弹人》仿制版。",
+    "url": "https://github.com/akien-mga/dynadungeons",
+    "tags": []
+  },
+  {
+    "name": "Duckmarines",
+    "desc": "PC 版《ChuChu Rocket》的现代化重制版本。",
+    "url": "https://github.com/SimonLarsen/duckmarines",
+    "tags": []
+  },
+  {
+    "name": "Falling Time",
+    "desc": "受《Fall Down》启发创作的街机风格游戏。",
+    "url": "https://github.com/cxong/FallingTime",
+    "tags": []
+  },
+  {
+    "name": "Kroniax",
+    "desc": "横向卷轴类，强调操作技巧的游戏。",
+    "url": "https://github.com/AlexAUT/Kroniax",
+    "tags": []
+  },
+  {
+    "name": "Missile Command",
+    "desc": "使用 LÖVE 框架并以 Lua 语言编写的克隆版本。",
+    "url": "https://github.com/chadpaulson/missile-command",
+    "tags": []
+  },
+  {
+    "name": "Mystic Mine",
+    "desc": "支持单人或多人模式的动作游戏，核心围绕矿车展开。",
+    "url": "https://github.com/koonsolo/MysticMine",
+    "tags": []
+  },
+  {
+    "name": "OSGG",
+    "desc": "经典重力类游戏，采用绚丽矢量图形呈现，难度极高，为登陆器题材代表。",
+    "url": "https://github.com/DusteDdk/Osgg",
+    "tags": []
+  },
+  {
+    "name": "Savage Wheels",
+    "desc": "类似经典老游戏《Destruction Derby》的 2D 赛车碰撞游戏。",
+    "url": "https://github.com/petarov/savagewheels",
+    "tags": []
+  },
+  {
+    "name": "Space Shooter",
+    "desc": "基于 pygame 构建的跨平台 2D 太空射击类游戏。",
+    "url": "https://github.com/prodicus/spaceShooter",
+    "tags": []
+  },
+  {
+    "name": "SDL-Ball",
+    "desc": "外观精致的《打砖块》仿制版本，多数系统发行版中均包含该软件。",
+    "url": "https://github.com/DusteDdk/SDL-Ball",
+    "tags": []
+  },
+  {
+    "name": "Taisei",
+    "desc": "由粉丝开发并开源的《东方 Project》系列同人作品。",
+    "url": "https://github.com/laochailan/taisei",
+    "tags": []
+  },
+  {
+    "name": "Teeworlds",
+    "desc": "支持在线多人对战的 2D 平台射击游戏。",
+    "url": "https://github.com/teeworlds/teeworlds",
+    "tags": []
+  },
+  {
+    "name": "Wannabe Tempest",
+    "desc": "以 Java 实现的《Tempest》（1980年代街机游戏）复刻版，同时作为学习 git 的小型实践项目。",
+    "url": "https://github.com/awlzac/wbt",
+    "tags": []
+  },
+  {
+    "name": "Witch Blast",
+    "desc": "融合《以撒的结合》风格的 Roguelite 地牢探索射击游戏。",
+    "url": "https://github.com/Cirrus-Minor/witchblast",
+    "tags": []
+  },
+  {
+    "name": "OpenLoco",
+    "desc": "Chris Sawyer《Locomotion》的开源重实现。",
+    "url": "https://github.com/OpenLoco/OpenLoco",
+    "tags": []
+  },
+  {
+    "name": "FIFE",
+    "desc": "",
+    "url": "https://github.com/unknown-horizons/godot-port",
+    "tags": []
+  },
+  {
+    "name": "Duke Nukem 3D",
+    "desc": "由 3D Realms 制作。",
+    "url": "https://github.com/vogonsorg/BuildGDX",
+    "tags": []
+  },
+  {
+    "name": "JFDuke3D",
+    "desc": "《毁灭公爵 3D》移植。",
+    "url": "https://github.com/jonof/jfduke3d",
+    "tags": []
+  },
+  {
+    "name": "NBlood",
+    "desc": "用 EDuke32 技术与开发原则逆向移植的 Build 游戏（NBlood/Rednukem/PCExhumed）。",
+    "url": "https://github.com/atsb/NuBuildGDX",
+    "tags": []
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "desc": "",
+    "url": "https://github.com/lazd/wolf4sdl",
+    "tags": []
+  },
+  {
+    "name": "Catacomb 3-D",
+    "desc": "",
+    "url": "https://github.com/ArnoAnsems/CatacombGL",
+    "tags": []
+  },
+  {
+    "name": "Commander Keen in Keen Dreams",
+    "desc": "id Software 开发的横版平台游戏。",
+    "url": "https://github.com/sulix/omnispeak",
+    "tags": []
+  },
+  {
+    "name": "Whatajong",
+    "desc": "",
+    "url": "https://github.com/masylum/whatajong",
+    "tags": []
+  },
+  {
+    "name": "OGRE",
+    "desc": "",
+    "url": "https://github.com/OGRECave",
+    "tags": []
+  },
+  {
+    "name": "Dear ImGui",
+    "desc": "",
+    "url": "https://github.com/ocornut/imgui",
+    "tags": []
+  },
+  {
+    "name": "Spring",
+    "desc": "",
+    "url": "https://github.com/OpenBW/openbw",
+    "tags": []
+  },
+  {
+    "name": "OpenRA",
+    "desc": "面向现代的《命令与征服》《沙丘 2000》《红色警戒》重建。",
+    "url": "https://github.com/djeada/Standard-of-Iron",
+    "tags": []
+  },
+  {
+    "name": "Brood War API",
+    "desc": "",
+    "url": "https://github.com/OpenBW/bwapi",
+    "tags": []
+  },
+  {
+    "name": "Strategus",
+    "desc": "",
+    "url": "https://github.com/Wargus/stratagus",
+    "tags": []
+  },
+  {
+    "name": "War1gus",
+    "desc": "《魔兽争霸：兽人与人类》重实现，可在现代平台游玩。",
+    "url": "https://github.com/Wargus/war1gus",
+    "tags": []
+  },
+  {
+    "name": "Stargus",
+    "desc": "《星际争霸》的导入器与脚本。",
+    "url": "https://github.com/Retera/WarsmashModEngine",
+    "tags": []
+  },
+  {
+    "name": "Tiberian Dawn",
+    "desc": "",
+    "url": "https://github.com/electronicarts/CnC_Tiberian_Dawn",
+    "tags": []
+  },
+  {
+    "name": "Ambermoon.net",
+    "desc": "《Ambermoon》的完整 C# 重写。",
+    "url": "https://github.com/Pyrdacor/Ambermoon.net",
+    "tags": []
+  },
+  {
+    "name": "Exult",
+    "desc": "在现代操作系统上重现《创世纪 VII》。",
+    "url": "https://github.com/alexbatalov/fallout2-ce",
+    "tags": []
+  },
+  {
+    "name": "Open Golf",
+    "desc": "用 C 编写的跨平台迷你高尔夫。",
+    "url": "https://github.com/mgerdes/Open-Golf",
+    "tags": []
+  },
+  {
+    "name": "Command & Conquer Renegade",
+    "desc": "",
+    "url": "https://github.com/stohrendorf/CroftEngine",
+    "tags": []
+  },
+  {
+    "name": "Overgrowth",
+    "desc": "Lugaru 的续作。",
+    "url": "https://github.com/VideogameSources/gta3-decomp-alt",
+    "tags": []
+  },
+  {
+    "name": "Commander Keen in Keen Dreams",
+    "desc": "id Software 的横版卷轴平台游戏。",
+    "url": "https://github.com/keendreams/keen",
+    "tags": []
+  }
+]

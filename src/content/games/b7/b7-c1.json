@@ -1,0 +1,26 @@
+[
+  {
+    "name": "AIGC Creative 作品精选库",
+    "desc": "用 AI 制作的游戏、交互实验与艺术沙盒作品精选库，附作品说明与游玩入口",
+    "url": "https://www.aigccreative.com/zh-CN",
+    "tags": ["案例库", "AI创作", "交互实验"]
+  },
+  {
+    "name": "SteamDB",
+    "desc": "Steam 数据库与统计站，可查询游戏价格历史、在线人数、更新与评测数据",
+    "url": "https://steamdb.info/",
+    "tags": ["资讯", "数据库", "统计"]
+  },
+  {
+    "name": "Three.js 案例库",
+    "desc": "Three.js 中文案例与教程库，汇集大量可运行的 3D 演示与源码示例",
+    "url": "https://threejs.cc/",
+    "tags": ["threejs", "案例库", "教程"]
+  },
+  {
+    "name": "Felix Rieseberg 原帖",
+    "desc": "相关 Three.js 游戏案例的出处原帖（X / Twitter），含演示与讨论",
+    "url": "https://x.com/felixrieseberg/status/2119925633564463609",
+    "tags": ["出处", "讨论"]
+  }
+]

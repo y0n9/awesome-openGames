@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Luanti（原 Minetest）",
+    "desc": "轻量体素沙盒引擎，海量 Mod，低配可跑",
+    "url": "https://github.com/luanti-org/luanti",
+    "tags": []
+  },
+  {
+    "name": "Minosoft",
+    "desc": "用 Kotlin 从零写的 Minecraft 客户端",
+    "url": "https://github.com/bixilon/minosoft",
+    "tags": []
+  },
+  {
+    "name": "Terasology",
+    "desc": "模块化体素世界实验平台",
+    "url": "https://github.com/MovingBlocks/Terasology",
+    "tags": []
+  },
+  {
+    "name": "OpenClonk",
+    "desc": "2D 动作+建造+对战多人同屏",
+    "url": "https://github.com/openclonk/openclonk",
+    "tags": []
+  },
+  {
+    "name": "Colobot",
+    "desc": "用写代码指挥机器人殖民星球",
+    "url": "https://github.com/colobot/colobot",
+    "tags": []
+  },
+  {
+    "name": "BrowserQuest",
+    "desc": "Mozilla HTML5 多人游戏实验",
+    "url": "https://github.com/mozilla/BrowserQuest",
+    "tags": []
+  },
+  {
+    "name": "Meridian 59",
+    "desc": "第一款 3D MMORPG，1996发行2012开源",
+    "url": "https://github.com/Meridian59/Meridian59",
+    "tags": []
+  },
+  {
+    "name": "The Mana World",
+    "desc": "复古 2D 免费 MMORPG，运营近二十年",
+    "url": "https://github.com/themanaworld/tmwa",
+    "tags": []
+  },
+  {
+    "name": "Ryzom",
+    "desc": "科幻 MMORPG 开源版，服务端客户端全开",
+    "url": "https://github.com/ryzom/ryzomcore",
+    "tags": []
+  },
+  {
+    "name": "Stendhal",
+    "desc": "友好复古 2D 多人在线冒险",
+    "url": "https://github.com/arianne/stendhal",
+    "tags": []
+  },
+  {
+    "name": "Open-KO",
+    "desc": "《骑士 Online》服务端重实现",
+    "url": "https://github.com/Open-KO/KnightOnline",
+    "tags": []
+  },
+  {
+    "name": "OpenKore",
+    "desc": "《仙境传说》自定义客户端与挂机助手",
+    "url": "https://github.com/OpenKore/openkore",
+    "tags": []
+  },
+  {
+    "name": "Reia",
+    "desc": "Godot+Rust+Zig 的动作冒险 MMO，剧情/战斗/开放世界",
+    "url": "https://github.com/Quaint-Studios/Reia",
+    "tags": []
+  },
+  {
+    "name": "Blk Game",
+    "desc": "完全可自定义的多人体素世界，由 JavaScript 实现，能在浏览器中流畅运行。",
+    "url": "https://github.com/morozd/blk-game",
+    "tags": []
+  },
+  {
+    "name": "Cube Engine",
+    "desc": "类似《我的世界》，是一款广受欢迎的基于方块的体素类 3D 游戏。",
+    "url": "https://github.com/Nurgak/Cube-engine",
+    "tags": []
+  },
+  {
+    "name": "Sandboxels",
+    "desc": "模拟沙粒下落的实验性游戏，提供超过 500 种可交互材料。",
+    "url": "https://github.com/R74nCom/sandboxels",
+    "tags": []
+  },
+  {
+    "name": "Blackvoxel",
+    "desc": "以分子体素交互为核心机制的沙盒游戏。",
+    "url": "https://github.com/Blackvoxel/Blackvoxel",
+    "tags": []
+  },
+  {
+    "name": "Blocks Beyond the Stars",
+    "desc": "基于方块的 3D 太空建造沙盒，支持程序化生成星球、逐块构建飞行器与基地，并提供可自行托管的多人联机模式（使用 Unity 客户端与 .NET 服务端）。",
+    "url": "https://github.com/marceld23/BlocksBeyondTheStars",
+    "tags": []
+  },
+  {
+    "name": "Craft",
+    "desc": "使用现代 OpenGL 和 C 语言实现的简易《我的世界》仿制版本。",
+    "url": "https://github.com/fogleman/Craft",
+    "tags": []
+  },
+  {
+    "name": "Freeminer",
+    "desc": "受《我的世界》启发开发的沙盒游戏。",
+    "url": "https://github.com/freeminer/freeminer",
+    "tags": []
+  },
+  {
+    "name": "Minecraft",
+    "desc": "用 Python 与 Pyglet 编写的轻量级《我的世界》风格演示程序。",
+    "url": "https://github.com/fogleman/Minecraft",
+    "tags": []
+  },
+  {
+    "name": "Manic Digger",
+    "desc": "支持多人协作的方块建造体素游戏，属于《我的世界》的克隆作品。",
+    "url": "https://github.com/manicdigger/manicdigger",
+    "tags": []
+  },
+  {
+    "name": "Minetest",
+    "desc": "拥有无限地图的方块沙盒游戏，包含生存模式与物品合成系统。",
+    "url": "https://github.com/minetest/minetest",
+    "tags": []
+  },
+  {
+    "name": "Pycraft",
+    "desc": "专为终端环境设计的《我的世界》风格游戏。",
+    "url": "https://github.com/itsapi/pycraft",
+    "tags": []
+  },
+  {
+    "name": "Space Engineers",
+    "desc": "设定在小行星带中的体素沙盒游戏。",
+    "url": "https://github.com/KeenSoftwareHouse/SpaceEngineers",
+    "tags": []
+  },
+  {
+    "name": "Starbound",
+    "desc": "2D 沙盒冒险游戏，玩家探索由程序生成的广阔宇宙。",
+    "url": "https://github.com/rwf93/Starbound",
+    "tags": []
+  },
+  {
+    "name": "The Powder Toy",
+    "desc": "一款以沙粒下落为物理核心的开放世界沙盒游戏。",
+    "url": "https://github.com/simtr/The-Powder-Toy",
+    "tags": []
+  }
+]

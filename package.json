@@ -1,0 +1,17 @@
+{
+  "name": "awesome-open-games",
+  "private": true,
+  "version": "2.0.0",
+  "description": "开源游戏与开发工具分类合集 · Astro 静态站（构建时直出 + MiniSearch 客户端搜索）",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "extract": "node scripts/extract-data.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.0.0",
+    "minisearch": "^7.2.0"
+  }
+}

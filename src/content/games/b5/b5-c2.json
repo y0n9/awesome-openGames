@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Blender",
+    "desc": "GPL 全能 3D 套件，建模到渲染一条龙",
+    "url": "https://www.blender.org/",
+    "tags": []
+  },
+  {
+    "name": "Blockbench",
+    "desc": "低模方块建模神器，Minecraft 建模起家",
+    "url": "https://github.com/JannisX11/blockbench",
+    "tags": []
+  },
+  {
+    "name": "ArmorPaint",
+    "desc": "直接在模型表面画贴图的开源 3D 材质绘画",
+    "url": "https://github.com/JulienKasal/ArmorPaint",
+    "tags": []
+  },
+  {
+    "name": "MakeHuman",
+    "desc": "拖拽参数快速生成写实人体模型",
+    "url": "http://www.makehumancommunity.org/",
+    "tags": []
+  }
+]

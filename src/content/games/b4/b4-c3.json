@@ -1,0 +1,68 @@
+[
+  {
+    "name": "so-many-games",
+    "desc": "经典合集，一个场景一个游戏（五子棋/2048/跳一跳/贪吃蛇）",
+    "url": "https://github.com/potato47/so-many-games",
+    "tags": []
+  },
+  {
+    "name": "jump（跳一跳）",
+    "desc": "Cocos+TS 跳一跳复刻，跳跃落点算法讲得清",
+    "url": "https://github.com/potato47/jump",
+    "tags": []
+  },
+  {
+    "name": "juanlegejuan（卷了个卷）",
+    "desc": "真实上线过的小游戏前端源码，含构建发布步骤",
+    "url": "https://github.com/ericdum/juanlegejuan",
+    "tags": []
+  },
+  {
+    "name": "number-bomb（谁输谁洗碗）",
+    "desc": "被 1:1 抄袭后开源的双人猜数字，上线月注册超3万",
+    "url": "https://github.com/4682B4LEE/number-bomb-public",
+    "tags": []
+  },
+  {
+    "name": "milky-frog（奶蛙割草）",
+    "desc": "用 Claude Code 一晚上搓的幸存者 like，已尝试上架",
+    "url": "https://github.com/ychisbest/milky-frog",
+    "tags": []
+  },
+  {
+    "name": "cocos_doudizhu_game",
+    "desc": "斗地主全栈：Cocos 客户端+Node 服务端+MySQL",
+    "url": "https://github.com/loui4939/cocos_doudizhu_game",
+    "tags": []
+  },
+  {
+    "name": "nodejs-server-landLord",
+    "desc": "少见的客户端+服务端全链路斗地主",
+    "url": "https://github.com/Zhang19910325/nodejs-server-wechat-landLordGame",
+    "tags": []
+  },
+  {
+    "name": "wxGameRank",
+    "desc": "开放数据域排行榜完整示例，好友榜/群榜",
+    "url": "https://github.com/864381832/wxGameRank",
+    "tags": []
+  },
+  {
+    "name": "minigame-everyday",
+    "desc": "独立开发者「100天每天复刻一款爆款小游戏」连载",
+    "url": "https://github.com/IcedSoul/minigame-everyday",
+    "tags": []
+  },
+  {
+    "name": "sunlight-minigame（榫光）",
+    "desc": "手写 three.js 管线、不依赖引擎的 3D 益智小游戏",
+    "url": "https://github.com/xiaomanwu/sunlight-minigame",
+    "tags": []
+  },
+  {
+    "name": "fish（JetLua）",
+    "desc": "Pixi.js 开发微信小游戏示例，2026-11 仍在更新",
+    "url": "https://github.com/JetLua/fish",
+    "tags": []
+  }
+]

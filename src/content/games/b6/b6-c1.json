@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Unturned U3-SDK",
+    "desc": "《Unturned》PC 版完整 Unity 工程官方开源，43万行C#，含角色/物品/载具/网络同步全系统；注意是自定义 U3 SDK License（非 MIT，源码可见不等于宽松开源）。",
+    "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+    "tags": []
+  },
+  {
+    "name": "C&C Remastered Collection",
+    "desc": "EA 公布的重制版源码",
+    "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+    "tags": []
+  },
+  {
+    "name": "C&C Generals & Zero Hour",
+    "desc": "EA 公布的将军系列源码",
+    "url": "https://github.com/electronicarts/CnC_Generals_Zero_Hour",
+    "tags": []
+  },
+  {
+    "name": "C&C Red Alert",
+    "desc": "EA 公布的红色警戒源码",
+    "url": "https://github.com/electronicarts/CnC_Red_Alert",
+    "tags": []
+  },
+  {
+    "name": "C&C Renegade",
+    "desc": "EA 公布的《叛国者》FPS 源码",
+    "url": "https://github.com/electronicarts/CnC_Renegade",
+    "tags": []
+  },
+  {
+    "name": "DOOM 3 BFG Edition",
+    "desc": "id 公布的 Doom 3 源码",
+    "url": "https://github.com/id-Software/DOOM-3-BFG",
+    "tags": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "osu! (lazer)",
+    "desc": "知名音游的开源新版，社区谱面海量",
+    "url": "https://github.com/ppy/osu",
+    "tags": []
+  },
+  {
+    "name": "StepMania",
+    "desc": "跳舞机模拟器鼻祖，键位谱面全自定义",
+    "url": "https://github.com/stepmania/stepmania",
+    "tags": []
+  },
+  {
+    "name": "Quaver / Etterna",
+    "desc": "下落式音游",
+    "url": "https://github.com/Quaver/Quaver",
+    "tags": []
+  },
+  {
+    "name": "UltraStar Deluxe",
+    "desc": "开源卡拉 OK 游戏",
+    "url": "https://github.com/UltraStar-Deluxe/USDX",
+    "tags": []
+  },
+  {
+    "name": "Performous",
+    "desc": "唱歌/节奏合奏游戏",
+    "url": "https://github.com/performous/performous",
+    "tags": []
+  },
+  {
+    "name": "Bemuse",
+    "desc": "在线音乐节奏类游戏，支持演奏 BMS 格式乐曲。",
+    "url": "https://github.com/bemusic/bemuse",
+    "tags": []
+  },
+  {
+    "name": "lr2oraja",
+    "desc": "BMS 音乐播放器，源自 beatoraja 项目分支，采用 Lunatic Rave 2（LR2）的判定逻辑与评分标准（需 JVM 支持，建议使用 Liberica OpenJDK 完整版）。",
+    "url": "https://github.com/wcko87/lr2oraja",
+    "tags": []
+  },
+  {
+    "name": "lr2oraja ~Endless Dream~",
+    "desc": "BMS 播放器，lr2oraja 的衍生版本，集成额外功能（需 JVM 环境，推荐使用 Liberica OpenJDK 完整版）。",
+    "url": "https://github.com/seraxis/lr2oraja-endlessdream",
+    "tags": []
+  },
+  {
+    "name": "Friday Night Funkin'",
+    "desc": "新增 广受欢迎的节奏对战游戏，基于 HaxeFlixel 构建，拥有活跃的社区 Mod 创作生态。",
+    "url": "https://github.com/FunkinCrew/Funkin",
+    "tags": []
+  },
+  {
+    "name": "Etterna",
+    "desc": "新增 StepMania 系列进阶节奏游戏，强调键盘操作竞技与高难度乐谱挑战。",
+    "url": "https://github.com/etternagame/etterna",
+    "tags": []
+  }
+]

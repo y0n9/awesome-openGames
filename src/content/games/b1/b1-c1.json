@@ -1,0 +1,74 @@
+[
+  {
+    "name": "0 A.D.",
+    "desc": "古代文明即时战略，画面开源界天花板，采集-建城-爆兵推平对手",
+    "url": "https://github.com/0ad/0ad",
+    "tags": []
+  },
+  {
+    "name": "OpenRA",
+    "desc": "《命令与征服/红警/沙丘2000》现代重制，自带联机观战",
+    "url": "https://github.com/OpenRA/OpenRA",
+    "tags": []
+  },
+  {
+    "name": "Warzone 2100",
+    "desc": "3D 未来 RTS，坦克可拆部件自由组装",
+    "url": "https://github.com/Warzone2100/warzone2100",
+    "tags": []
+  },
+  {
+    "name": "Widelands",
+    "desc": "和平发展向开源 RTS",
+    "url": "https://github.com/widelands/widelands",
+    "tags": []
+  },
+  {
+    "name": "Zero-K / BAR",
+    "desc": "Spring 引擎现代 RTS，物理弹道+强 UI",
+    "url": "https://github.com/ZeroK-RTS/Zero-K",
+    "tags": []
+  },
+  {
+    "name": "Mindustry",
+    "desc": "工厂自动化+塔防沙盒，越优化越上头",
+    "url": "https://github.com/Anuken/Mindustry",
+    "tags": []
+  },
+  {
+    "name": "OpenAge",
+    "desc": "《帝国时代》机制的跨平台 RTS 引擎",
+    "url": "https://github.com/SFTtech/openage",
+    "tags": []
+  },
+  {
+    "name": "Keeper FX",
+    "desc": "《地下城守护者》开源重制",
+    "url": "https://github.com/dkfans/keeperfx",
+    "tags": []
+  },
+  {
+    "name": "Dune II The Maker",
+    "desc": "《沙丘 2》重制",
+    "url": "https://github.com/stefanhendriks/Dune-II---The-Maker",
+    "tags": []
+  },
+  {
+    "name": "Freeserf.net",
+    "desc": "《工人物语 I》C# 重制",
+    "url": "https://github.com/Pyrdacor/freeserf.net",
+    "tags": []
+  },
+  {
+    "name": "OpenHV",
+    "desc": "像素科幻风 RTS",
+    "url": "https://github.com/OpenHV/OpenHV",
+    "tags": []
+  },
+  {
+    "name": "Bos Wars / MegaGlest",
+    "desc": "轻量 RTS 与奇幻 3D RTS",
+    "url": "https://github.com/boswars/boswars",
+    "tags": []
+  }
+]

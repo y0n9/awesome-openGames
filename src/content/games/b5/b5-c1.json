@@ -1,0 +1,26 @@
+[
+  {
+    "name": "LibreSprite",
+    "desc": "Aseprite 开源分支的 GPL 版，像素画入门首选",
+    "url": "https://github.com/LibreSprite/LibreSprite",
+    "tags": []
+  },
+  {
+    "name": "Pixelorama",
+    "desc": "Godot 打造的 MIT 像素编辑器，功能直追 Aseprite",
+    "url": "https://github.com/AdamBill22/Pixelorama",
+    "tags": []
+  },
+  {
+    "name": "Krita",
+    "desc": "GPL 专业绘画软件，立绘与概念图性价比之王",
+    "url": "https://krita.org/",
+    "tags": []
+  },
+  {
+    "name": "Inkscape",
+    "desc": "GPL 矢量编辑器，LOGO/UI/宣传图排版兜底",
+    "url": "https://inkscape.org/",
+    "tags": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Tiled",
+    "desc": "瓦片地图老牌主力，支持正交/等距/六边形地图",
+    "url": "https://www.mapeditor.org/",
+    "tags": []
+  },
+  {
+    "name": "LDtk",
+    "desc": "《死亡细胞》主创出品的现代关卡编辑器，MIT",
+    "url": "https://github.com/ludibri/ldtk",
+    "tags": []
+  },
+  {
+    "name": "Free Texture Packer",
+    "desc": "免费开源雪碧图打包，散图排布成大图减 drawcall",
+    "url": "https://github.com/odinho/libgdx-packer",
+    "tags": []
+  }
+]

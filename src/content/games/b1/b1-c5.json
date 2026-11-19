@@ -1,0 +1,140 @@
+[
+  {
+    "name": "SuperTux",
+    "desc": "经典 2D 横版跳跃闯关（Tux）",
+    "url": "https://github.com/SuperTux/supertux",
+    "tags": []
+  },
+  {
+    "name": "VVVVVV",
+    "desc": "Terry Cavanagh 重力反转神作，源码已开放",
+    "url": "https://github.com/TerryCavanagh/VVVVVV",
+    "tags": []
+  },
+  {
+    "name": "Sonic Robo Blast 2",
+    "desc": "Doom 引擎上的 3D 开源索尼克同人",
+    "url": "https://git.do.srb2.org/STJr/SRB2",
+    "tags": []
+  },
+  {
+    "name": "OpenGOAL",
+    "desc": "把《杰克与达斯特》移植到 PC 的社区工程",
+    "url": "https://github.com/water111/jak-project",
+    "tags": []
+  },
+  {
+    "name": "DDraceNetwork",
+    "desc": "合作在线精准平台游戏，数千地图全球排行",
+    "url": "https://github.com/ddnet/ddnet",
+    "tags": []
+  },
+  {
+    "name": "Frogatto",
+    "desc": "主角是青蛙的动作冒险平台游戏",
+    "url": "https://github.com/frogatto/frogatto",
+    "tags": []
+  },
+  {
+    "name": "Gish",
+    "desc": "获奖的物理平台游戏",
+    "url": "https://github.com/blinry/gish",
+    "tags": []
+  },
+  {
+    "name": "Super Mario 64",
+    "desc": "SM64 完整反编译（需自备 ROM），逆向工程史著名事件",
+    "url": "https://github.com/n64decomp/sm64",
+    "tags": []
+  },
+  {
+    "name": "Rigel Engine",
+    "desc": "1993《毁灭公爵2》重实现",
+    "url": "https://github.com/lethal-guitar/RigelEngine",
+    "tags": []
+  },
+  {
+    "name": "Commander Genius",
+    "desc": "《指挥官基恩》系列兼容克隆",
+    "url": "https://github.com/gerstrong/Commander-Genius",
+    "tags": []
+  },
+  {
+    "name": "Prince of Persia",
+    "desc": "初代波斯王子 6502 汇编源码",
+    "url": "https://github.com/jmechner/Prince-of-Persia-Apple-II",
+    "tags": []
+  },
+  {
+    "name": "Celeste Classic 2",
+    "desc": "《蔚蓝》官方续作 PICO-8 卡带",
+    "url": "https://github.com/EXOK/Celeste2",
+    "tags": []
+  },
+  {
+    "name": "AAAAXY",
+    "desc": "设定于“不可能空间”的非线性2D解谜平台游戏。",
+    "url": "https://github.com/divVerent/aaaaxy",
+    "tags": []
+  },
+  {
+    "name": "Elemental One",
+    "desc": "基于Phaser HTML5游戏框架开发。",
+    "url": "https://github.com/voithos/elemental-one",
+    "tags": []
+  },
+  {
+    "name": "Escape of the cat",
+    "desc": "基于INSTEAD引擎打造的硬核复古平台类游戏。",
+    "url": "https://github.com/gl00my/catesc",
+    "tags": []
+  },
+  {
+    "name": "Journey to the Center of Hawkthorne",
+    "desc": "这款2D平台游戏灵感源自美剧《Community》中“Digital Estate Planning”一集，使用LÖVE引擎制作。",
+    "url": "https://github.com/hawkthorne/hawkthorne-journey",
+    "tags": []
+  },
+  {
+    "name": "Mario-Level-1",
+    "desc": "用Python与Pygame实现的《超级马里奥兄弟》第一关。",
+    "url": "https://github.com/justinmeister/Mario-Level-1",
+    "tags": []
+  },
+  {
+    "name": "HFT Mario Party",
+    "desc": "对初代《马里奥兄弟》进行本地多人模式的重新混编与重构。",
+    "url": "https://github.com/amiruqdah/mario-party",
+    "tags": []
+  },
+  {
+    "name": "Sky Engine",
+    "desc": "采用OpenGL技术开发、内置自研引擎的2D平台游戏。",
+    "url": "https://github.com/ilenburg/game-engine",
+    "tags": []
+  },
+  {
+    "name": "The Legend of Edgar",
+    "desc": "具备持久存档世界的2D平台游戏。",
+    "url": "https://github.com/riksweeney/edgar",
+    "tags": []
+  },
+  {
+    "name": "The Secret Chronicles of Dr. M.",
+    "desc": "具有经典风格的2D平台游戏。",
+    "url": "https://github.com/Secretchronicles/TSC",
+    "tags": []
+  },
+  {
+    "name": "ReTux",
+    "desc": "受《SuperTux》启发而设计的平台游戏。",
+    "url": "https://github.com/retux-game/retux",
+    "tags": []
+  },
+  {
+    "name": "Super Bombinhas",
+    "desc": "复古风格的平台游戏。",
+    "url": "https://github.com/victords/super-bombinhas",
+    "tags": []
+  }
+]

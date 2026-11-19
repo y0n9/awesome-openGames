@@ -1,0 +1,164 @@
+[
+  {
+    "name": "OpenMW",
+    "desc": "重制《上古卷轴 III：晨风》，开源重制标杆",
+    "url": "https://github.com/OpenMW/openmw",
+    "tags": []
+  },
+  {
+    "name": "Veloren",
+    "desc": "Rust 多人在线体素动作 RPG（类 Cube World）",
+    "url": "https://github.com/veloren/veloren",
+    "tags": []
+  },
+  {
+    "name": "Daggerfall Unity",
+    "desc": "《上古卷轴 II 匕首雨》Unity 重制",
+    "url": "https://github.com/Interkarma/daggerfall-unity",
+    "tags": []
+  },
+  {
+    "name": "GemRB",
+    "desc": "Bioware 无限引擎开源实现（博德之门等）",
+    "url": "https://github.com/gemrb/gemrb",
+    "tags": []
+  },
+  {
+    "name": "Fallout CE / Fallout2 CE",
+    "desc": "《辐射》1、2 完整可玩重实现",
+    "url": "https://github.com/alexbatalov/fallout1-ce",
+    "tags": []
+  },
+  {
+    "name": "Space Station 14",
+    "desc": "《13号太空站》开源重制，多人沙盒",
+    "url": "https://github.com/space-wizards/space-station-14",
+    "tags": []
+  },
+  {
+    "name": "DevilutionX",
+    "desc": "《暗黑破坏神1》现代移植，手柄宽屏联机",
+    "url": "https://github.com/diasurgical/devilutionX",
+    "tags": []
+  },
+  {
+    "name": "OpenDiablo2",
+    "desc": "《暗黑破坏神 II》Go 重实现",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "tags": []
+  },
+  {
+    "name": "Abyss Engine",
+    "desc": "《暗黑2》净室重实现（C）",
+    "url": "https://github.com/AbyssEngine/AbyssEngine",
+    "tags": []
+  },
+  {
+    "name": "Exult",
+    "desc": "《创世纪 VII》引擎重实现",
+    "url": "https://github.com/exult/exult",
+    "tags": []
+  },
+  {
+    "name": "OpenEnroth",
+    "desc": "《魔法门 6-8》引擎重制",
+    "url": "https://github.com/OpenEnroth/OpenEnroth",
+    "tags": []
+  },
+  {
+    "name": "reone",
+    "desc": "可运行《星球大战：旧共和国武士》的引擎",
+    "url": "https://github.com/seedhartha/reone",
+    "tags": []
+  },
+  {
+    "name": "Kandria",
+    "desc": "用 Common Lisp 写的动作 RPG",
+    "url": "https://codeberg.org/shirakumo/kandria",
+    "tags": []
+  },
+  {
+    "name": "Naev / Oolite",
+    "desc": "2D 太空 RPG 与《精英》精神续作",
+    "url": "https://codeberg.org/naev/naev",
+    "tags": []
+  },
+  {
+    "name": "Severed Chains",
+    "desc": "《龙骑士传说》反编译移植 PC/Steam Deck",
+    "url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains",
+    "tags": []
+  },
+  {
+    "name": "Diablo JavaScript",
+    "desc": "基于 HTML5 Canvas 与 JavaScript 的等距视角极简代码风格游戏。",
+    "url": "https://github.com/mitallast/diablo-js",
+    "tags": []
+  },
+  {
+    "name": "Roguish",
+    "desc": "由 JavaScript 开发的 RPG / Rogue-like 类型游戏。",
+    "url": "https://github.com/CamHenlin/Roguish",
+    "tags": []
+  },
+  {
+    "name": "Room for Change",
+    "desc": "一款随机生成剧情的动作角色扮演游戏。玩家扮演一名圆胖的考古学家，奉命从传说中的法老金字塔中取回三件圣物。",
+    "url": "https://github.com/antionio/game-off-2013",
+    "tags": []
+  },
+  {
+    "name": "Arx Fatalis",
+    "desc": "《Arx Fatalis》这款第一人称角色扮演游戏的跨平台移植版本。",
+    "url": "https://github.com/arx/ArxLibertatis",
+    "tags": []
+  },
+  {
+    "name": "Cendric",
+    "desc": "融合奇幻元素与解谜机制的平台类 RPG。",
+    "url": "https://github.com/tizian/Cendric2",
+    "tags": []
+  },
+  {
+    "name": "Dungeon Monkey Eternal",
+    "desc": "以队伍协作为核心的奇幻风格 Roguelike 角色扮演游戏。",
+    "url": "https://github.com/jwvhewitt/dmeternal",
+    "tags": []
+  },
+  {
+    "name": "Egoboo",
+    "desc": "具有 NetHack 风格的炫酷 3D 地牢探险游戏。",
+    "url": "https://github.com/egoboo/egoboo",
+    "tags": []
+  },
+  {
+    "name": "Flare RPG",
+    "desc": "使用自研引擎打造的奇幻动作 RPG。",
+    "url": "https://github.com/clintbellanger/flare-game",
+    "tags": []
+  },
+  {
+    "name": "Freeablo",
+    "desc": "《暗黑破坏神 I》游戏引擎的开源复刻版本。",
+    "url": "https://github.com/wheybags/freeablo",
+    "tags": []
+  },
+  {
+    "name": "The Legend of Zelda: Mystery of Solarus DX",
+    "desc": "《塞尔达传说：众神的三角力量》（SNES 平台）的正统续作。",
+    "url": "https://github.com/christopho/zsdx",
+    "tags": []
+  },
+  {
+    "name": "Valyria Tear",
+    "desc": "一款以单人体验为核心、融合中世纪奇幻元素的2D日式角色扮演游戏。",
+    "url": "https://github.com/Bertram25/ValyriaTear",
+    "tags": []
+  },
+  {
+    "name": "Frogatto & Friends",
+    "desc": "动作冒险平台跳跃，主角是一只爱幻想的青蛙。",
+    "url": "https://github.com/anura-engine/anura",
+    "tags": []
+  }
+]

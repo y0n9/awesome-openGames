@@ -1,0 +1,26 @@
+[
+  {
+    "name": "LMMS",
+    "desc": "100% 开源 DAW，自带多款合成器，独立游戏配乐够用",
+    "url": "https://lmms.io/",
+    "tags": []
+  },
+  {
+    "name": "Audacity",
+    "desc": "GPL 多轨音频后期万金油，降噪变调全格式导出",
+    "url": "https://www.audacityteam.org/",
+    "tags": []
+  },
+  {
+    "name": "Bfxr",
+    "desc": "网页一键生成八位机复古音效",
+    "url": "https://www.effectnoise.com/",
+    "tags": []
+  },
+  {
+    "name": "Bosca Ceoil",
+    "desc": "极简作曲工具，不会乐理也能点出旋律",
+    "url": "https://boscaceoil.net/",
+    "tags": []
+  }
+]

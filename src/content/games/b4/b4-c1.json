@@ -1,0 +1,44 @@
+[
+  {
+    "name": "minigame-unity-webgl-transform",
+    "desc": "Unity WebGL 转微信小游戏官方插件，存量 Unity 项目唯一权威起点（3.3k）",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "tags": []
+  },
+  {
+    "name": "minigame-canvas-engine",
+    "desc": "官方轻量 Canvas2D 引擎，含好友排行榜开放数据域解法",
+    "url": "https://github.com/wechat-miniprogram/minigame-canvas-engine",
+    "tags": []
+  },
+  {
+    "name": "minigame-demo",
+    "desc": "官方示例合集，覆盖渲染/网络/存储/Worker/广告/云开发",
+    "url": "https://github.com/wechat-miniprogram/minigame-demo",
+    "tags": []
+  },
+  {
+    "name": "minigame-api-typings",
+    "desc": "微信小游戏 API 的 TypeScript 类型定义",
+    "url": "https://github.com/wechat-miniprogram/minigame-api-typings",
+    "tags": []
+  },
+  {
+    "name": "minigame-lockstep-demo",
+    "desc": "官方帧同步服务示例，1v1 好友房间对战",
+    "url": "https://github.com/wechat-miniprogram/minigame-lockstep-demo",
+    "tags": []
+  },
+  {
+    "name": "weapp-adapter",
+    "desc": "官方浏览器环境适配器，让 H5 代码在小游戏 runtime 跑",
+    "url": "https://github.com/wechat-miniprogram/weapp-adapter",
+    "tags": []
+  },
+  {
+    "name": "CloudBase-AI-ToolKit",
+    "desc": "腾讯云开发 AI 工具集，让 AI 助手直接建云函数/排行榜",
+    "url": "https://github.com/TencentCloudBase/CloudBase-AI-ToolKit",
+    "tags": []
+  }
+]

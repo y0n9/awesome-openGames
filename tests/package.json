@@ -1,0 +1,1 @@
+{"name":"qa-tests","private":true,"type":"module","dependencies":{"playwright":"^1.65.1"}}

@@ -1,0 +1,54 @@
+---
+/**
+ * GameCard —— 条目卡片（构建时静态生成）
+ * item 为 dataset.js 装配后的扁平条目（id 由 name 自动生成，构建期保证唯一）。
+ * Astro 模板表达式默认 HTML 转义；收藏态由 ui.js 在运行时恢复。
+ */
+import { icon } from '../js/shared.js';
+
+interface Props {
+  item: any; // dataset.js 条目 { id, name, desc, url, tags, board, category }
+}
+
+const { item } = Astro.props;
+const hasUrl = /^https?:\/\//i.test(item.url);
+/** 推荐游戏站（b7）等网站类条目显示"打开网站"，其余显示"打开源码" */
+const linkLabel = item.board === 'b7' ? '打开网站' : '打开源码';
+
+/** 链接域名识别：GitHub 优先，其余 globe（与 v1 linkIcon 一致） */
+let linkKind = 'globe';
+if (hasUrl) {
+  try {
+    const host = new URL(item.url).hostname;
+    if (/(^|\.)github\.com$/i.test(host) || /github\.io$/i.test(host) || /(^|\.)gitlab\.com$/i.test(host)) {
+      linkKind = 'github';
+    }
+  } catch {
+    /* 非法 URL 走默认图标（dataset.js 已拦截，此处兜底） */
+  }
+}
+---
+
+<article class="og-card" data-id={item.id}>
+  <h4 class="og-card-name">{item.name}</h4>
+  <p class="og-card-desc">{item.desc}</p>
+  <div class="og-card-foot">
+    {
+      hasUrl ? (
+        <a class="og-card-link" href={item.url} target="_blank" rel="noopener" aria-label={`${linkLabel}：${item.name}`}>
+          <Fragment set:html={icon(linkKind)} />
+          <span>{linkLabel}</span>
+          <Fragment set:html={icon('external-link')} />
+        </a>
+      ) : (
+        <span class="og-card-link is-disabled" aria-disabled="true">
+          <Fragment set:html={icon('globe')} />
+          <span>暂无链接</span>
+        </span>
+      )
+    }
+    <button class="og-fav-btn" type="button" data-fav={item.id} aria-pressed="false" aria-label={`收藏 ${item.name}`}>
+      <Fragment set:html={icon('star')} />
+    </button>
+  </div>
+</article>

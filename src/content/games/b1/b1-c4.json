@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ScummVM",
+    "desc": "经典图形冒险/RPG 通用运行器（卢卡斯艺术老游戏方舟）必看",
+    "url": "https://github.com/scummvm/scummvm",
+    "tags": []
+  },
+  {
+    "name": "Endless Sky",
+    "desc": "2D 太空探索+贸易+舰队战斗",
+    "url": "https://github.com/endless-sky/endless-sky",
+    "tags": []
+  },
+  {
+    "name": "Pioneer",
+    "desc": "33 世纪银河系太空冒险（Elite 精神续作）",
+    "url": "https://github.com/pioneerspacesim/pioneer",
+    "tags": []
+  },
+  {
+    "name": "Hypersomnia",
+    "desc": "竞技俯视角像素射击，内置地图编辑器",
+    "url": "https://github.com/TeamHypersomnia/Hypersomnia",
+    "tags": []
+  },
+  {
+    "name": "OpenLiberty",
+    "desc": "Godot 上开源重制《GTA III》",
+    "url": "https://github.com/FOSS-Supremacy/OpenLiberty",
+    "tags": []
+  },
+  {
+    "name": "Zelda Classic",
+    "desc": "经典塞尔达同人引擎，海量自制关卡",
+    "url": "https://github.com/ArmageddonGames/ZeldaClassic",
+    "tags": []
+  },
+  {
+    "name": "Zelda 3",
+    "desc": "《众神的三角力量》逆向复刻",
+    "url": "https://github.com/snesrev/zelda3",
+    "tags": []
+  },
+  {
+    "name": "Twilight Princess (zeldaret/tp)",
+    "desc": "《黄昏公主》反编译为可改源码",
+    "url": "https://github.com/zeldaret/tp",
+    "tags": []
+  },
+  {
+    "name": "Dead Ascend",
+    "desc": "僵尸主题密室逃脱冒险",
+    "url": "https://github.com/larpon/DeadAscend",
+    "tags": []
+  },
+  {
+    "name": "Lugaru / Overgrowth",
+    "desc": "兔子功夫大师 3D 动作及其续作",
+    "url": "https://github.com/WolfireGames/lugaru",
+    "tags": []
+  },
+  {
+    "name": "OpenRW / RE3",
+    "desc": "《GTA III》重实现与完全逆向",
+    "url": "https://github.com/rwengine/openrw",
+    "tags": []
+  },
+  {
+    "name": "OpenTomb",
+    "desc": "基于开源《古墓丽影 1-5》引擎的重制版本。",
+    "url": "https://github.com/opentomb/OpenTomb",
+    "tags": []
+  }
+]
